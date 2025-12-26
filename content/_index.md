@@ -1,5 +1,8 @@
 +++
 date = '2025-12-18T16:27:37-05:00'
-draft = true
-title = ''
+draft = false
+title = 'Community Calendar'
+layout = 'calendar'
 +++
+
+View upcoming community events in Bayonne.
