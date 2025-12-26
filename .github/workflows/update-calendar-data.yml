@@ -1,0 +1,47 @@
+name: Update Calendar Data
+on:
+  schedule:
+    - cron: '0 6 * * *'  # Runs daily at 1 AM EST (6 AM UTC)
+  workflow_dispatch:
+permissions:
+  contents: write
+defaults:
+  run:
+    shell: bash
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+          cache-dependency-path: scripts/calendar_data/requirements.txt
+      - name: Install Python dependencies
+        run: |
+          pip install -r scripts/calendar_data/requirements.txt
+      - name: Fetch calendar data
+        run: |
+          python scripts/calendar_data/fetch_data.py
+      - name: Aggregate calendar data
+        run: |
+          python scripts/calendar_data/aggregate_data.py
+      - name: Summarize calendar data
+        run: |
+          python scripts/calendar_data/summarize_data.py
+      - name: Commit updated data files
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add data/
+          if ! git diff --staged --quiet; then
+            git commit -m "Update calendar data"
+            git push
+          else
+            echo "No changes to commit"
+          fi
