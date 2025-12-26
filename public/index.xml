@@ -6,8 +6,25 @@
     <description>Recent content in Community Calendar on My New Hugo Site</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Dec 2025 16:29:48 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 26 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Support</title>
+      <link>http://localhost:1313/support/</link>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/support/</guid>
+      <description>&lt;h1 id=&#34;support-this-website&#34;&gt;Support This Website&lt;/h1&gt;
+&lt;p&gt;Thank you for your interest in supporting our community platform! Your support helps us maintain and improve this resource for everyone.&lt;/p&gt;
+&lt;h2 id=&#34;ways-to-support&#34;&gt;Ways to Support&lt;/h2&gt;
+&lt;p&gt;We&amp;rsquo;re working on setting up multiple ways for you to contribute. Check back soon for updates!&lt;/p&gt;
+&lt;h3 id=&#34;coming-soon&#34;&gt;Coming Soon&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Financial Support&lt;/strong&gt; - Details coming soon&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Share &amp;amp; Spread the Word&lt;/strong&gt; - Details coming soon&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;More information will be added as we finalize our support options. Thank you for your patience and interest in supporting our community!&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Community Calendar</title>
       <link>http://localhost:1313/calendar/</link>
