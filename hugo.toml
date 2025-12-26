@@ -1,4 +1,51 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'My Town Square - Bayonne Community Events'
 theme = 'PaperMod'
+
+[params]
+  description = 'Discover local events and activities happening in Bayonne, NJ'
+  author = 'My Town Square'
+  defaultTheme = 'auto'
+  ShowReadingTime = false
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = false
+  ShowWordCount = false
+  ShowRssButtonInSectionTermList = false
+  UseHugoToc = true
+  disableSpecial1stPost = false
+  disableScrollToTop = false
+  comments = false
+  hidemeta = false
+  hideSummary = false
+  showtoc = false
+  tocopen = false
+
+  [params.homeInfoParams]
+    Title = 'Welcome to My Town Square'
+    Content = 'Your go-to source for community events in Bayonne, NJ. Stay connected with local happenings and never miss out on what is going on in our town.'
+
+[[params.socialIcons]]
+  name = 'github'
+  url = 'https://github.com/bertcafecito/my-town-square'
+
+[menu]
+  [[menu.main]]
+    name = 'Calendar'
+    url = '/calendar/'
+    weight = 10
+  
+  [[menu.main]]
+    name = 'About'
+    url = '/about/'
+    weight = 20
+  
+  [[menu.main]]
+    name = 'Support'
+    url = '/support/'
+    weight = 30
+
+[outputs]
+  home = ['HTML', 'RSS', 'JSON']

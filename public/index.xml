@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Community Calendar on My New Hugo Site</title>
+    <title>My Town Square on My Town Square - Bayonne Community Events</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content in Community Calendar on My New Hugo Site</description>
+    <description>Recent content in My Town Square on My Town Square - Bayonne Community Events</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 26 Dec 2025 00:00:00 +0000</lastBuildDate>
@@ -13,24 +13,33 @@
       <link>http://localhost:1313/support/</link>
       <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/support/</guid>
-      <description>&lt;h1 id=&#34;support-this-website&#34;&gt;Support This Website&lt;/h1&gt;
-&lt;p&gt;Thank you for your interest in supporting our community platform! Your support helps us maintain and improve this resource for everyone.&lt;/p&gt;
+      <description>&lt;h1 id=&#34;support-my-town-square&#34;&gt;Support My Town Square&lt;/h1&gt;
+&lt;p&gt;Thank you for your interest in supporting our community platform! Your support helps us maintain and improve this resource for everyone in Bayonne.&lt;/p&gt;
 &lt;h2 id=&#34;ways-to-support&#34;&gt;Ways to Support&lt;/h2&gt;
-&lt;p&gt;We&amp;rsquo;re working on setting up multiple ways for you to contribute. Check back soon for updates!&lt;/p&gt;
-&lt;h3 id=&#34;coming-soon&#34;&gt;Coming Soon&lt;/h3&gt;
+&lt;h3 id=&#34;-spread-the-word&#34;&gt;🗣️ Spread the Word&lt;/h3&gt;
+&lt;p&gt;The best way to support My Town Square is to tell other Bayonne residents about it! Share the website with:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Financial Support&lt;/strong&gt; - Details coming soon&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Share &amp;amp; Spread the Word&lt;/strong&gt; - Details coming soon&lt;/li&gt;
+&lt;li&gt;Friends and family&lt;/li&gt;
+&lt;li&gt;Neighbors&lt;/li&gt;
+&lt;li&gt;Community groups&lt;/li&gt;
+&lt;li&gt;Local organizations&lt;/li&gt;
 &lt;/ul&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;em&gt;More information will be added as we finalize our support options. Thank you for your patience and interest in supporting our community!&lt;/em&gt;&lt;/p&gt;</description>
+&lt;h3 id=&#34;-share-feedback&#34;&gt;💡 Share Feedback&lt;/h3&gt;
+&lt;p&gt;Help us improve by:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Suggesting new features&lt;/li&gt;
+&lt;li&gt;Reporting issues or bugs&lt;/li&gt;
+&lt;li&gt;Recommending event sources we should include&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-contribute&#34;&gt;🤝 Contribute&lt;/h3&gt;
+&lt;p&gt;This is an open-source project! If you&amp;rsquo;re technically inclined, you can:&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Community Calendar</title>
+      <title>Event Calendar</title>
       <link>http://localhost:1313/calendar/</link>
       <pubDate>Thu, 18 Dec 2025 16:29:48 -0500</pubDate>
       <guid>http://localhost:1313/calendar/</guid>
-      <description>&lt;p&gt;View upcoming community events in Bayonne.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Browse upcoming community events in Bayonne, NJ. Click on any date to see events scheduled for that day.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
@@ -38,8 +47,18 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
       <description>&lt;h1 id=&#34;about-my-town-square&#34;&gt;About My Town Square&lt;/h1&gt;
-&lt;p&gt;I created this site because I don&amp;rsquo;t have social media and wanted an easy way to see what events are happening around Bayonne, NJ that my family can attend.&lt;/p&gt;
-&lt;p&gt;Instead of scrolling through multiple sources or missing out on community activities, this calendar aggregates local events in one place, making it simple to discover what&amp;rsquo;s going on in our town.&lt;/p&gt;</description>
+&lt;p&gt;My Town Square was created to make it easier for Bayonne residents to discover local community events without the need for social media.&lt;/p&gt;
+&lt;h2 id=&#34;our-mission&#34;&gt;Our Mission&lt;/h2&gt;
+&lt;p&gt;We believe staying connected to your community shouldn&amp;rsquo;t require scrolling through multiple sources or maintaining social media accounts. My Town Square aggregates local events in one convenient place, making it simple to discover what&amp;rsquo;s happening in our town.&lt;/p&gt;
+&lt;h2 id=&#34;what-we-do&#34;&gt;What We Do&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Aggregate Local Events&lt;/strong&gt; - We collect event information from various community sources&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Simple Calendar View&lt;/strong&gt; - Browse events in an easy-to-use calendar format&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Family-Friendly Focus&lt;/strong&gt; - Highlighting activities suitable for all ages&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;No Social Media Required&lt;/strong&gt; - Access everything without needing any social media accounts&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;get-involved&#34;&gt;Get Involved&lt;/h2&gt;
+&lt;p&gt;This is a community resource built for the people of Bayonne. If you have suggestions or would like to help improve this platform, please visit our &lt;a href=&#34;http://localhost:1313/support/&#34;&gt;Support&lt;/a&gt; page.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
