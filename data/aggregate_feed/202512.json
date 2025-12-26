@@ -1,134 +1,14 @@
 [
   {
-    "summary": "Multiple Sclerosis Monthly Support Meeting",
-    "start": "2025-12-17T22:00:00+00:00",
-    "end": "2025-12-18T00:00:00+00:00",
-    "fetched_at": "2025-12-18T15:46:41.555888"
-  },
-  {
-    "summary": "Chess Club (Ages 8-18)",
-    "start": "2025-12-17T23:00:00+00:00",
-    "end": "2025-12-18T00:00:00+00:00",
-    "fetched_at": "2025-12-18T15:46:41.555888"
-  },
-  {
-    "summary": "Family Friendly Christmas Movies:  How the Grinch Stole Christmas",
-    "start": "2025-12-17T23:00:00+00:00",
-    "end": "2025-12-18T00:30:00+00:00",
-    "fetched_at": "2025-12-18T15:46:41.555888"
-  },
-  {
-    "summary": "ESL Class",
-    "start": "2025-12-17T23:30:00+00:00",
-    "end": "2025-12-18T01:30:00+00:00",
-    "fetched_at": "2025-12-18T15:46:41.555888"
-  },
-  {
-    "summary": "Adult Yoga Class",
-    "start": "2025-12-18T00:00:00+00:00",
-    "end": "2025-12-18T01:00:00+00:00",
-    "fetched_at": "2025-12-18T15:46:41.555888"
-  },
-  {
-    "summary": "Bayonne Public Schools Class Visit",
-    "start": "2025-12-18T14:30:00+00:00",
-    "end": "2025-12-18T16:00:00+00:00",
-    "fetched_at": "2025-12-18T15:46:41.555888"
-  },
-  {
-    "summary": "ESL Class",
-    "start": "2025-12-18T15:00:00+00:00",
-    "end": "2025-12-18T17:00:00+00:00",
-    "fetched_at": "2025-12-18T15:46:41.555888"
-  },
-  {
-    "summary": "Tech Thursdays - Ask Me Anything",
-    "start": "2025-12-18T19:30:00+00:00",
-    "end": "2025-12-18T20:30:00+00:00",
-    "fetched_at": "2025-12-18T15:46:41.555888"
-  },
-  {
-    "summary": "Arts & Crafts (Ages 6-10)",
-    "start": "2025-12-18T20:15:00+00:00",
-    "end": "2025-12-18T21:00:00+00:00",
-    "fetched_at": "2025-12-18T15:46:41.555888"
-  },
-  {
-    "summary": "Book a Librarian",
-    "start": "2025-12-18T22:30:00+00:00",
-    "end": "2025-12-19T01:30:00+00:00",
-    "fetched_at": "2025-12-18T15:46:41.555888"
-  },
-  {
-    "summary": "ESL Class",
-    "start": "2025-12-18T23:30:00+00:00",
-    "end": "2025-12-19T01:30:00+00:00",
-    "fetched_at": "2025-12-18T15:46:41.555888"
-  },
-  {
-    "summary": "Bayonne Book Club: \"I Love You a Latke\"",
-    "start": "2025-12-19T00:00:00+00:00",
-    "end": "2025-12-19T01:30:00+00:00",
-    "fetched_at": "2025-12-18T15:46:41.555888"
-  },
-  {
-    "summary": "Sunshine Club Daycare Class Visit",
-    "start": "2025-12-19T14:30:00+00:00",
-    "end": "2025-12-19T16:00:00+00:00",
-    "fetched_at": "2025-12-18T15:46:41.555888"
-  },
-  {
-    "summary": "Caregiver and Me Pilates Class",
-    "start": "2025-12-19T15:30:00+00:00",
-    "end": "2025-12-19T16:15:00+00:00",
-    "fetched_at": "2025-12-18T15:46:41.555888"
-  },
-  {
-    "summary": "Music with Miss Julia (For 6 Months through 5 Years Old)",
-    "start": "2025-12-20T15:00:00+00:00",
-    "end": "2025-12-20T15:30:00+00:00",
-    "fetched_at": "2025-12-18T15:46:41.555888"
-  },
-  {
-    "summary": "Lapsit Program (Ages 18-24 Months)",
-    "start": "2025-12-22T15:30:00+00:00",
-    "end": "2025-12-22T16:15:00+00:00",
-    "fetched_at": "2025-12-18T15:46:41.555888"
-  },
-  {
-    "summary": "Polar Express Party",
-    "start": "2025-12-22T23:00:00+00:00",
-    "end": "2025-12-23T01:30:00+00:00",
-    "fetched_at": "2025-12-18T15:46:41.555888"
-  },
-  {
-    "summary": "Parent/Toddler Time (Ages 2-3 Years Old)",
-    "start": "2025-12-23T15:30:00+00:00",
-    "end": "2025-12-23T16:15:00+00:00",
-    "fetched_at": "2025-12-18T15:46:41.555888"
-  },
-  {
-    "summary": "Early Closure",
-    "start": "2025-12-23T22:00:00+00:00",
-    "end": "2025-12-24T02:00:00+00:00",
-    "fetched_at": "2025-12-18T15:46:41.555888"
-  },
-  {
-    "summary": "Library Closed - Christmas Eve and Christmas Day",
-    "start": "2025-12-24",
-    "end": "2025-12-25",
-    "fetched_at": "2025-12-18T15:46:41.555888"
-  },
-  {
     "summary": "Lapsit Program (Ages 18-24 Months)",
     "start": "2025-12-29T15:30:00+00:00",
     "end": "2025-12-29T16:15:00+00:00",
-    "fetched_at": "2025-12-18T15:46:41.555888"
+    "fetched_at": "2025-12-26T23:14:22.901721"
   },
   {
     "summary": "Library Closed - New Year's Eve and New Year's Day",
     "start": "2025-12-31",
     "end": "2026-01-01",
-    "fetched_at": "2025-12-18T15:46:41.555888"
+    "fetched_at": "2025-12-26T23:14:22.901721"
   }
 ]

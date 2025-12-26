@@ -1,0 +1,3002 @@
+[
+    {
+        "summary": "Peanuts Friendsgiving",
+        "start": "2025-11-26T15:00:00+00:00",
+        "end": "2025-11-26T16:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "ESL Class",
+        "start": "2025-11-26T15:00:00+00:00",
+        "end": "2025-11-26T17:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "November Afternoon Movies: March of the Wooden Soliders",
+        "start": "2025-11-26T18:00:00+00:00",
+        "end": "2025-11-26T19:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Self Help Group for the Visually Impaired",
+        "start": "2025-11-26T18:00:00+00:00",
+        "end": "2025-11-26T20:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Story Time (Ages 4-5 Years Old)",
+        "start": "2025-11-26T20:15:00+00:00",
+        "end": "2025-11-26T21:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "CANCELLED - Chess Club (Ages 8-18)",
+        "start": "2025-11-26T23:00:00+00:00",
+        "end": "2025-11-27T00:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "CANCELLED - ESL Class",
+        "start": "2025-11-26T23:30:00+00:00",
+        "end": "2025-11-27T01:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Library Closed - Thanksgiving Break",
+        "start": "2025-11-27",
+        "end": "2025-11-28",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "ESL Class",
+        "start": "2025-12-01T15:00:00+00:00",
+        "end": "2025-12-01T17:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "ESL Class",
+        "start": "2025-12-01T15:00:00+00:00",
+        "end": "2025-12-01T17:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Lapsit Program (Ages 18-24 Months)",
+        "start": "2025-12-01T15:30:00+00:00",
+        "end": "2025-12-01T16:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Intuitive Tarot Card Reading",
+        "start": "2025-12-02T00:00:00+00:00",
+        "end": "2025-12-02T01:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "ESL Class",
+        "start": "2025-12-02T15:00:00+00:00",
+        "end": "2025-12-02T17:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Parent/Toddler Time (Ages 2-3 Years Old)",
+        "start": "2025-12-02T15:30:00+00:00",
+        "end": "2025-12-02T16:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Kidney Wellness Workshop",
+        "start": "2025-12-02T16:00:00+00:00",
+        "end": "2025-12-02T18:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Free Childhood Vaccination Clinic (Ages 18 and Under)",
+        "start": "2025-12-02T19:00:00+00:00",
+        "end": "2025-12-02T22:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Tween Dungeons & Dragons",
+        "start": "2025-12-02T21:00:00+00:00",
+        "end": "2025-12-02T23:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "NAACP Membership Meetings",
+        "start": "2025-12-02T23:00:00+00:00",
+        "end": "2025-12-03T01:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Adult Dungeons & Dragons",
+        "start": "2025-12-02T23:30:00+00:00",
+        "end": "2025-12-03T01:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Library Board of Trustees Meeting",
+        "start": "2025-12-03T00:00:00+00:00",
+        "end": "2025-12-03T01:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Yarn Group & Knitting Class",
+        "start": "2025-12-03T00:00:00+00:00",
+        "end": "2025-12-03T01:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Bayonne Public Schools Class Visit",
+        "start": "2025-12-03T14:30:00+00:00",
+        "end": "2025-12-03T16:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "ESL Class",
+        "start": "2025-12-03T15:00:00+00:00",
+        "end": "2025-12-03T17:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "December Afternoon Movies: 29th Street",
+        "start": "2025-12-03T18:00:00+00:00",
+        "end": "2025-12-03T19:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Story Time (Ages 4-5 Years Old)",
+        "start": "2025-12-03T20:15:00+00:00",
+        "end": "2025-12-03T21:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Chess Club (Ages 8-18)",
+        "start": "2025-12-03T23:00:00+00:00",
+        "end": "2025-12-04T00:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Family Friendly Christmas Movies: Christmas Carol (animated, 2009)",
+        "start": "2025-12-03T23:00:00+00:00",
+        "end": "2025-12-04T00:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "ESL Class",
+        "start": "2025-12-03T23:30:00+00:00",
+        "end": "2025-12-04T01:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Adult Yoga Class",
+        "start": "2025-12-04T00:00:00+00:00",
+        "end": "2025-12-04T01:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Bayonne Public Schools Class Visit",
+        "start": "2025-12-04T14:30:00+00:00",
+        "end": "2025-12-04T16:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "ESL Class",
+        "start": "2025-12-04T15:00:00+00:00",
+        "end": "2025-12-04T17:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Tech Thursdays - Word Processing",
+        "start": "2025-12-04T19:30:00+00:00",
+        "end": "2025-12-04T20:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Arts & Crafts (Ages 6-10)",
+        "start": "2025-12-04T20:15:00+00:00",
+        "end": "2025-12-04T21:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Book a Librarian",
+        "start": "2025-12-04T22:30:00+00:00",
+        "end": "2025-12-05T01:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "ESL Class",
+        "start": "2025-12-04T23:30:00+00:00",
+        "end": "2025-12-05T01:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Bayonne Public Schools Class Visit",
+        "start": "2025-12-05T14:30:00+00:00",
+        "end": "2025-12-05T16:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Caregiver and Me Pilates Class",
+        "start": "2025-12-05T15:30:00+00:00",
+        "end": "2025-12-05T16:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Family Yoga",
+        "start": "2025-12-06T15:00:00+00:00",
+        "end": "2025-12-06T16:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "BYA Student Leadership Meeting",
+        "start": "2025-12-06T17:00:00+00:00",
+        "end": "2025-12-06T20:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "BYC Art show",
+        "start": "2025-12-06T17:00:00+00:00",
+        "end": "2025-12-06T21:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "ESL Class",
+        "start": "2025-12-08T15:00:00+00:00",
+        "end": "2025-12-08T17:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "ESL Class",
+        "start": "2025-12-08T15:00:00+00:00",
+        "end": "2025-12-08T17:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Lapsit Program (Ages 18-24 Months)",
+        "start": "2025-12-08T15:30:00+00:00",
+        "end": "2025-12-08T16:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Flu and COVID Vaccination Clinic",
+        "start": "2025-12-08T15:30:00+00:00",
+        "end": "2025-12-08T22:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "BBOED Principals' Meeting",
+        "start": "2025-12-09T14:15:00+00:00",
+        "end": "2025-12-09T16:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "ESL Class",
+        "start": "2025-12-09T15:00:00+00:00",
+        "end": "2025-12-09T17:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Parent/Toddler Time (Ages 2-3 Years Old)",
+        "start": "2025-12-09T15:30:00+00:00",
+        "end": "2025-12-09T16:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Yarn Group & Knitting Class",
+        "start": "2025-12-10T00:00:00+00:00",
+        "end": "2025-12-10T01:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Bayonne Public Schools Class Visit",
+        "start": "2025-12-10T14:30:00+00:00",
+        "end": "2025-12-10T16:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "ESL Class",
+        "start": "2025-12-10T15:00:00+00:00",
+        "end": "2025-12-10T17:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "December Afternoon Movies: A Christmas Carol (1951)",
+        "start": "2025-12-10T18:00:00+00:00",
+        "end": "2025-12-10T19:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Red Foxes Senior Group",
+        "start": "2025-12-10T19:00:00+00:00",
+        "end": "2025-12-10T23:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Story Time (Ages 4-5 Years Old)",
+        "start": "2025-12-10T20:15:00+00:00",
+        "end": "2025-12-10T21:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Canceled-Chess Club (Ages 8-18)",
+        "start": "2025-12-10T23:00:00+00:00",
+        "end": "2025-12-11T00:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Canceled-Family Friendly Christmas Movies: Elf",
+        "start": "2025-12-10T23:00:00+00:00",
+        "end": "2025-12-11T00:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Canceled-ESL Class",
+        "start": "2025-12-10T23:30:00+00:00",
+        "end": "2025-12-11T01:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Bayonne Public Schools Class Visit",
+        "start": "2025-12-11T14:30:00+00:00",
+        "end": "2025-12-11T16:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "ESL Class",
+        "start": "2025-12-11T15:00:00+00:00",
+        "end": "2025-12-11T17:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Tech Thursdays - Spreadsheets",
+        "start": "2025-12-11T19:30:00+00:00",
+        "end": "2025-12-11T20:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Arts & Crafts (Ages 6-10)",
+        "start": "2025-12-11T20:15:00+00:00",
+        "end": "2025-12-11T21:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Book a Librarian",
+        "start": "2025-12-11T22:30:00+00:00",
+        "end": "2025-12-12T01:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Jigsaw Puzzle Drop-In",
+        "start": "2025-12-11T23:00:00+00:00",
+        "end": "2025-12-12T01:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "ESL Class",
+        "start": "2025-12-11T23:30:00+00:00",
+        "end": "2025-12-12T01:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Lenny and Mabel's Nutcracker Show (No Ballet)",
+        "start": "2025-12-12T00:00:00+00:00",
+        "end": "2025-12-12T01:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Bayonne Public Schools Class Visit",
+        "start": "2025-12-12T14:30:00+00:00",
+        "end": "2025-12-12T16:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "New Parent Support Group",
+        "start": "2025-12-12T16:00:00+00:00",
+        "end": "2025-12-12T17:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Book Sale",
+        "start": "2025-12-12T16:00:00+00:00",
+        "end": "2025-12-12T21:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Christmas Artist Alley",
+        "start": "2025-12-13T15:00:00+00:00",
+        "end": "2025-12-13T21:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Little Spanish Scholars Bilingual Story Time",
+        "start": "2025-12-13T15:30:00+00:00",
+        "end": "2025-12-13T16:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "ESL Class",
+        "start": "2025-12-15T15:00:00+00:00",
+        "end": "2025-12-15T17:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "ESL Class",
+        "start": "2025-12-15T15:00:00+00:00",
+        "end": "2025-12-15T17:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Lapsit Program (Ages 18-24 Months)",
+        "start": "2025-12-15T15:30:00+00:00",
+        "end": "2025-12-15T16:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Kids Bingo Night",
+        "start": "2025-12-15T23:30:00+00:00",
+        "end": "2025-12-16T00:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Intuitive Tarot Card Reading",
+        "start": "2025-12-16T00:00:00+00:00",
+        "end": "2025-12-16T01:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "ESL Class",
+        "start": "2025-12-16T15:00:00+00:00",
+        "end": "2025-12-16T17:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Parent/Toddler Time (Ages 2-3 Years Old)",
+        "start": "2025-12-16T15:30:00+00:00",
+        "end": "2025-12-16T16:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Tween Dungeons & Dragons",
+        "start": "2025-12-16T21:00:00+00:00",
+        "end": "2025-12-16T23:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Adult Dungeons & Dragons",
+        "start": "2025-12-16T23:30:00+00:00",
+        "end": "2025-12-17T01:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Yarn Group & Knitting Class",
+        "start": "2025-12-17T00:00:00+00:00",
+        "end": "2025-12-17T01:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "ESL Class",
+        "start": "2025-12-17T15:00:00+00:00",
+        "end": "2025-12-17T17:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Winter Party",
+        "start": "2025-12-17T15:30:00+00:00",
+        "end": "2025-12-17T16:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "December Afternoon Movies: Miracle on 34th Street",
+        "start": "2025-12-17T18:00:00+00:00",
+        "end": "2025-12-17T19:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Story Time (Ages 4-5 Years Old)",
+        "start": "2025-12-17T20:15:00+00:00",
+        "end": "2025-12-17T21:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Multiple Sclerosis Monthly Support Meeting",
+        "start": "2025-12-17T22:00:00+00:00",
+        "end": "2025-12-18T00:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Chess Club (Ages 8-18)",
+        "start": "2025-12-17T23:00:00+00:00",
+        "end": "2025-12-18T00:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Family Friendly Christmas Movies:  How the Grinch Stole Christmas",
+        "start": "2025-12-17T23:00:00+00:00",
+        "end": "2025-12-18T00:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "ESL Class",
+        "start": "2025-12-17T23:30:00+00:00",
+        "end": "2025-12-18T01:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Adult Yoga Class",
+        "start": "2025-12-18T00:00:00+00:00",
+        "end": "2025-12-18T01:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Bayonne Public Schools Class Visit",
+        "start": "2025-12-18T14:30:00+00:00",
+        "end": "2025-12-18T16:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "ESL Class",
+        "start": "2025-12-18T15:00:00+00:00",
+        "end": "2025-12-18T17:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Tech Thursdays - Ask Me Anything",
+        "start": "2025-12-18T19:30:00+00:00",
+        "end": "2025-12-18T20:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Arts & Crafts (Ages 6-10)",
+        "start": "2025-12-18T20:15:00+00:00",
+        "end": "2025-12-18T21:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Book a Librarian",
+        "start": "2025-12-18T22:30:00+00:00",
+        "end": "2025-12-19T01:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "ESL Class",
+        "start": "2025-12-18T23:30:00+00:00",
+        "end": "2025-12-19T01:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Bayonne Book Club: \"I Love You a Latke\"",
+        "start": "2025-12-19T00:00:00+00:00",
+        "end": "2025-12-19T01:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Sunshine Club Daycare Class Visit",
+        "start": "2025-12-19T14:30:00+00:00",
+        "end": "2025-12-19T16:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Caregiver and Me Pilates Class",
+        "start": "2025-12-19T15:30:00+00:00",
+        "end": "2025-12-19T16:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Music with Miss Julia (For 6 Months through 5 Years Old)",
+        "start": "2025-12-20T15:00:00+00:00",
+        "end": "2025-12-20T15:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Lapsit Program (Ages 18-24 Months)",
+        "start": "2025-12-22T15:30:00+00:00",
+        "end": "2025-12-22T16:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Polar Express Party",
+        "start": "2025-12-22T23:00:00+00:00",
+        "end": "2025-12-23T01:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Parent/Toddler Time (Ages 2-3 Years Old)",
+        "start": "2025-12-23T15:30:00+00:00",
+        "end": "2025-12-23T16:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Early Closure",
+        "start": "2025-12-23T22:00:00+00:00",
+        "end": "2025-12-24T02:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Library Closed - Christmas Eve and Christmas Day",
+        "start": "2025-12-24",
+        "end": "2025-12-25",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Lapsit Program (Ages 18-24 Months)",
+        "start": "2025-12-29T15:30:00+00:00",
+        "end": "2025-12-29T16:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Library Closed - New Year's Eve and New Year's Day",
+        "start": "2025-12-31",
+        "end": "2026-01-01",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Trading Card Game and Disney Lorcana Competition with Manifest Comics",
+        "start": "2026-01-03T15:00:00+00:00",
+        "end": "2026-01-03T21:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Lapsit Program (Ages 18-24 Months)",
+        "start": "2026-01-05T15:30:00+00:00",
+        "end": "2026-01-05T16:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Parent/Toddler Time (Ages 2-3 Years Old)",
+        "start": "2026-01-06T15:30:00+00:00",
+        "end": "2026-01-06T16:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Kidney Wellness Workshop",
+        "start": "2026-01-06T15:30:00+00:00",
+        "end": "2026-01-06T18:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "NAACP Membership Meetings",
+        "start": "2026-01-06T23:00:00+00:00",
+        "end": "2026-01-07T01:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Library Board of Trustees Meeting",
+        "start": "2026-01-07T00:00:00+00:00",
+        "end": "2026-01-07T01:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Bayonne Public Schools Class Visit",
+        "start": "2026-01-07T14:30:00+00:00",
+        "end": "2026-01-07T16:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Story Time (Ages 4-5 Years Old)",
+        "start": "2026-01-07T20:15:00+00:00",
+        "end": "2026-01-07T21:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Chess Club (Ages 8-18)",
+        "start": "2026-01-07T23:00:00+00:00",
+        "end": "2026-01-08T00:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Evening Yoga Class",
+        "start": "2026-01-08T00:00:00+00:00",
+        "end": "2026-01-08T01:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Bayonne Public Schools Class Visit",
+        "start": "2026-01-08T14:30:00+00:00",
+        "end": "2026-01-08T16:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Tech Thursdays - Computer Basics",
+        "start": "2026-01-08T19:30:00+00:00",
+        "end": "2026-01-08T20:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Arts & Crafts (Ages 6-10)",
+        "start": "2026-01-08T20:15:00+00:00",
+        "end": "2026-01-08T21:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Book a Librarian",
+        "start": "2026-01-08T22:30:00+00:00",
+        "end": "2026-01-09T01:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Anime Nights",
+        "start": "2026-01-08T23:30:00+00:00",
+        "end": "2026-01-09T00:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Bayonne Public Schools Class Visit",
+        "start": "2026-01-09T14:30:00+00:00",
+        "end": "2026-01-09T16:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "New Parent Support Group",
+        "start": "2026-01-09T17:00:00+00:00",
+        "end": "2026-01-09T18:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Family Yoga",
+        "start": "2026-01-10T15:00:00+00:00",
+        "end": "2026-01-10T16:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Lapsit Program (Ages 18-24 Months)",
+        "start": "2026-01-12T15:30:00+00:00",
+        "end": "2026-01-12T16:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Intuitive Tarot Card Reading",
+        "start": "2026-01-13T00:00:00+00:00",
+        "end": "2026-01-13T01:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "BBOED Principals' Meeting",
+        "start": "2026-01-13T14:15:00+00:00",
+        "end": "2026-01-13T16:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Parent/Toddler Time (Ages 2-3 Years Old)",
+        "start": "2026-01-13T15:30:00+00:00",
+        "end": "2026-01-13T16:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Create-Your-Own Vision Board Program",
+        "start": "2026-01-13T20:30:00+00:00",
+        "end": "2026-01-13T22:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Tween Dungeons & Dragons",
+        "start": "2026-01-13T21:00:00+00:00",
+        "end": "2026-01-13T23:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Adult Dungeons & Dragons",
+        "start": "2026-01-13T23:30:00+00:00",
+        "end": "2026-01-14T01:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Bayonne Public Schools Class Visit",
+        "start": "2026-01-14T14:30:00+00:00",
+        "end": "2026-01-14T16:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Free Childhood Vaccination Clinic (Ages 18 and Under)",
+        "start": "2026-01-14T19:00:00+00:00",
+        "end": "2026-01-14T22:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Red Foxes Senior Group",
+        "start": "2026-01-14T19:00:00+00:00",
+        "end": "2026-01-14T23:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Story Time (Ages 4-5 Years Old)",
+        "start": "2026-01-14T20:15:00+00:00",
+        "end": "2026-01-14T21:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Chess Club (Ages 8-18)",
+        "start": "2026-01-14T23:00:00+00:00",
+        "end": "2026-01-15T00:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Book Binding Workshop with Magical Monkey Makery",
+        "start": "2026-01-14T23:30:00+00:00",
+        "end": "2026-01-15T01:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Bayonne Public Schools Class Visit",
+        "start": "2026-01-15T14:30:00+00:00",
+        "end": "2026-01-15T16:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Tech Thursdays - Internet Basics",
+        "start": "2026-01-15T19:30:00+00:00",
+        "end": "2026-01-15T20:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Arts & Crafts (Ages 6-10)",
+        "start": "2026-01-15T20:15:00+00:00",
+        "end": "2026-01-15T21:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Book a Librarian",
+        "start": "2026-01-15T22:30:00+00:00",
+        "end": "2026-01-16T01:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Bayonne Public Schools Class Visit",
+        "start": "2026-01-16T14:30:00+00:00",
+        "end": "2026-01-16T16:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Homeschool Lunch and Learn",
+        "start": "2026-01-16T17:00:00+00:00",
+        "end": "2026-01-16T18:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Library Closed - Martin Luther King, Jr. Day",
+        "start": "2026-01-19",
+        "end": "2026-01-20",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Parent/Toddler Time (Ages 2-3 Years Old)",
+        "start": "2026-01-20T15:30:00+00:00",
+        "end": "2026-01-20T16:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Bayonne Public Schools Class Visit",
+        "start": "2026-01-21T14:30:00+00:00",
+        "end": "2026-01-21T16:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Story Time (Ages 4-5 Years Old)",
+        "start": "2026-01-21T20:15:00+00:00",
+        "end": "2026-01-21T21:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Multiple Sclerosis Monthly Support Meeting",
+        "start": "2026-01-21T22:00:00+00:00",
+        "end": "2026-01-22T00:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Chess Club (Ages 8-18)",
+        "start": "2026-01-21T23:00:00+00:00",
+        "end": "2026-01-22T00:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Evening Yoga Class",
+        "start": "2026-01-22T00:00:00+00:00",
+        "end": "2026-01-22T01:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Bayonne Public Schools Class Visit",
+        "start": "2026-01-22T14:30:00+00:00",
+        "end": "2026-01-22T16:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Tech Thursdays - Email Basics",
+        "start": "2026-01-22T19:30:00+00:00",
+        "end": "2026-01-22T20:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Arts & Crafts (Ages 6-10)",
+        "start": "2026-01-22T20:15:00+00:00",
+        "end": "2026-01-22T21:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Book a Librarian",
+        "start": "2026-01-22T22:30:00+00:00",
+        "end": "2026-01-23T01:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Anime Nights",
+        "start": "2026-01-22T23:30:00+00:00",
+        "end": "2026-01-23T00:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Bayonne Public Schools Class Visit",
+        "start": "2026-01-23T14:30:00+00:00",
+        "end": "2026-01-23T16:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "New Parent Support Group",
+        "start": "2026-01-23T17:00:00+00:00",
+        "end": "2026-01-23T18:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Lapsit Program (Ages 18-24 Months)",
+        "start": "2026-01-26T15:30:00+00:00",
+        "end": "2026-01-26T16:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Intuitive Tarot Card Reading",
+        "start": "2026-01-27T00:00:00+00:00",
+        "end": "2026-01-27T01:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Parent/Toddler Time (Ages 2-3 Years Old)",
+        "start": "2026-01-27T15:30:00+00:00",
+        "end": "2026-01-27T16:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Tween Dungeons & Dragons",
+        "start": "2026-01-27T21:00:00+00:00",
+        "end": "2026-01-27T23:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Adult Dungeons & Dragons",
+        "start": "2026-01-27T23:30:00+00:00",
+        "end": "2026-01-28T01:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Bayonne Public Schools Class Visit",
+        "start": "2026-01-28T14:30:00+00:00",
+        "end": "2026-01-28T16:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Self Help Group for the Visually Impaired",
+        "start": "2026-01-28T18:00:00+00:00",
+        "end": "2026-01-28T20:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Story Time (Ages 4-5 Years Old)",
+        "start": "2026-01-28T20:15:00+00:00",
+        "end": "2026-01-28T21:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Chess Club (Ages 8-18)",
+        "start": "2026-01-28T23:00:00+00:00",
+        "end": "2026-01-29T00:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Bayonne Public Schools Class Visit",
+        "start": "2026-01-29T14:30:00+00:00",
+        "end": "2026-01-29T16:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Flu and COVID Vaccination Clinic",
+        "start": "2026-01-29T15:30:00+00:00",
+        "end": "2026-01-29T22:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Tech Thursdays - Ask Me Anything",
+        "start": "2026-01-29T19:30:00+00:00",
+        "end": "2026-01-29T20:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Arts & Crafts (Ages 6-10)",
+        "start": "2026-01-29T20:15:00+00:00",
+        "end": "2026-01-29T21:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Book a Librarian",
+        "start": "2026-01-29T22:30:00+00:00",
+        "end": "2026-01-30T01:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Bayonne Book Club: \"Four Thousand Weeks: Time Management for Mortals\"",
+        "start": "2026-01-30T00:00:00+00:00",
+        "end": "2026-01-30T01:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Bayonne Public Schools Class Visit",
+        "start": "2026-01-30T14:30:00+00:00",
+        "end": "2026-01-30T16:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "The Vazopolos' Music School-New Year's Eve Piano Recital",
+        "start": "2026-01-31T17:00:00+00:00",
+        "end": "2026-01-31T21:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Lapsit Program (Ages 18-24 Months)",
+        "start": "2026-02-02T15:30:00+00:00",
+        "end": "2026-02-02T16:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Parent/Toddler Time (Ages 2-3 Years Old)",
+        "start": "2026-02-03T15:30:00+00:00",
+        "end": "2026-02-03T16:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Kidney Wellness Workshop",
+        "start": "2026-02-03T15:30:00+00:00",
+        "end": "2026-02-03T18:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Free Childhood Vaccination Clinic (Ages 18 and Under)",
+        "start": "2026-02-03T19:00:00+00:00",
+        "end": "2026-02-03T22:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "NAACP Membership Meetings",
+        "start": "2026-02-03T23:00:00+00:00",
+        "end": "2026-02-04T01:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Library Board of Trustees Meeting",
+        "start": "2026-02-04T00:00:00+00:00",
+        "end": "2026-02-04T01:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Bayonne Public Schools Class Visit",
+        "start": "2026-02-04T14:30:00+00:00",
+        "end": "2026-02-04T16:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Story Time (Ages 4-5 Years Old)",
+        "start": "2026-02-04T20:15:00+00:00",
+        "end": "2026-02-04T21:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Chess Club (Ages 8-18)",
+        "start": "2026-02-04T23:00:00+00:00",
+        "end": "2026-02-05T00:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Evening Yoga Class",
+        "start": "2026-02-05T00:00:00+00:00",
+        "end": "2026-02-05T01:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Bayonne Public Schools Class Visit",
+        "start": "2026-02-05T14:30:00+00:00",
+        "end": "2026-02-05T16:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Arts & Crafts (Ages 6-10)",
+        "start": "2026-02-05T20:15:00+00:00",
+        "end": "2026-02-05T21:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Book a Librarian",
+        "start": "2026-02-05T22:30:00+00:00",
+        "end": "2026-02-06T01:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Bayonne Public Schools Class Visit",
+        "start": "2026-02-06T14:30:00+00:00",
+        "end": "2026-02-06T16:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "New Parent Support Group",
+        "start": "2026-02-06T17:00:00+00:00",
+        "end": "2026-02-06T18:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Lapsit Program (Ages 18-24 Months)",
+        "start": "2026-02-09T15:30:00+00:00",
+        "end": "2026-02-09T16:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Intuitive Tarot Card Reading",
+        "start": "2026-02-10T00:00:00+00:00",
+        "end": "2026-02-10T01:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "BBOED Principals' Meeting",
+        "start": "2026-02-10T14:15:00+00:00",
+        "end": "2026-02-10T16:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Parent/Toddler Time (Ages 2-3 Years Old)",
+        "start": "2026-02-10T15:30:00+00:00",
+        "end": "2026-02-10T16:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Bayonne Public Schools Class Visit",
+        "start": "2026-02-11T14:30:00+00:00",
+        "end": "2026-02-11T16:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Red Foxes Senior Group",
+        "start": "2026-02-11T19:00:00+00:00",
+        "end": "2026-02-11T23:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Story Time (Ages 4-5 Years Old)",
+        "start": "2026-02-11T20:15:00+00:00",
+        "end": "2026-02-11T21:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Chess Club (Ages 8-18)",
+        "start": "2026-02-11T23:00:00+00:00",
+        "end": "2026-02-12T00:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Bayonne Public Schools Class Visit",
+        "start": "2026-02-12T14:30:00+00:00",
+        "end": "2026-02-12T16:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Arts & Crafts (Ages 6-10)",
+        "start": "2026-02-12T20:15:00+00:00",
+        "end": "2026-02-12T21:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Book a Librarian",
+        "start": "2026-02-12T22:30:00+00:00",
+        "end": "2026-02-13T01:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Library Closed - Presidents Day",
+        "start": "2026-02-16",
+        "end": "2026-02-17",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Parent/Toddler Time (Ages 2-3 Years Old)",
+        "start": "2026-02-17T15:30:00+00:00",
+        "end": "2026-02-17T16:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Story Time (Ages 4-5 Years Old)",
+        "start": "2026-02-18T20:15:00+00:00",
+        "end": "2026-02-18T21:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Multiple Sclerosis Monthly Support Meeting",
+        "start": "2026-02-18T22:00:00+00:00",
+        "end": "2026-02-19T00:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Chess Club (Ages 8-18)",
+        "start": "2026-02-18T23:00:00+00:00",
+        "end": "2026-02-19T00:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Evening Yoga Class",
+        "start": "2026-02-19T00:00:00+00:00",
+        "end": "2026-02-19T01:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Arts & Crafts (Ages 6-10)",
+        "start": "2026-02-19T20:15:00+00:00",
+        "end": "2026-02-19T21:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Book a Librarian",
+        "start": "2026-02-19T22:30:00+00:00",
+        "end": "2026-02-20T01:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "New Parent Support Group",
+        "start": "2026-02-20T17:00:00+00:00",
+        "end": "2026-02-20T18:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Family Yoga",
+        "start": "2026-02-21T15:00:00+00:00",
+        "end": "2026-02-21T16:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Lapsit Program (Ages 18-24 Months)",
+        "start": "2026-02-23T15:30:00+00:00",
+        "end": "2026-02-23T16:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Intuitive Tarot Card Reading",
+        "start": "2026-02-24T00:00:00+00:00",
+        "end": "2026-02-24T01:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Parent/Toddler Time (Ages 2-3 Years Old)",
+        "start": "2026-02-24T15:30:00+00:00",
+        "end": "2026-02-24T16:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Self Help Group for the Visually Impaired",
+        "start": "2026-02-25T18:00:00+00:00",
+        "end": "2026-02-25T20:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Story Time (Ages 4-5 Years Old)",
+        "start": "2026-02-25T20:15:00+00:00",
+        "end": "2026-02-25T21:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Chess Club (Ages 8-18)",
+        "start": "2026-02-25T23:00:00+00:00",
+        "end": "2026-02-26T00:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Flu and COVID Vaccination Clinic",
+        "start": "2026-02-26T15:30:00+00:00",
+        "end": "2026-02-26T22:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Arts & Crafts (Ages 6-10)",
+        "start": "2026-02-26T20:15:00+00:00",
+        "end": "2026-02-26T21:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Book a Librarian",
+        "start": "2026-02-26T22:30:00+00:00",
+        "end": "2026-02-27T01:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Lapsit Program (Ages 18-24 Months)",
+        "start": "2026-03-02T15:30:00+00:00",
+        "end": "2026-03-02T16:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Parent/Toddler Time (Ages 2-3 Years Old)",
+        "start": "2026-03-03T15:30:00+00:00",
+        "end": "2026-03-03T16:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Kidney Wellness Workshop",
+        "start": "2026-03-03T15:30:00+00:00",
+        "end": "2026-03-03T18:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "NAACP Membership Meetings",
+        "start": "2026-03-03T23:00:00+00:00",
+        "end": "2026-03-04T01:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Library Board of Trustees Meeting",
+        "start": "2026-03-04T00:00:00+00:00",
+        "end": "2026-03-04T01:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Bayonne Public Schools Class Visit",
+        "start": "2026-03-04T14:30:00+00:00",
+        "end": "2026-03-04T16:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Story Time (Ages 4-5 Years Old)",
+        "start": "2026-03-04T20:15:00+00:00",
+        "end": "2026-03-04T21:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Chess Club (Ages 8-18)",
+        "start": "2026-03-04T23:00:00+00:00",
+        "end": "2026-03-05T00:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Evening Yoga Class",
+        "start": "2026-03-05T00:00:00+00:00",
+        "end": "2026-03-05T01:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Bayonne Public Schools Class Visit",
+        "start": "2026-03-05T14:30:00+00:00",
+        "end": "2026-03-05T16:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Arts & Crafts (Ages 6-10)",
+        "start": "2026-03-05T20:15:00+00:00",
+        "end": "2026-03-05T21:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Book a Librarian",
+        "start": "2026-03-05T22:30:00+00:00",
+        "end": "2026-03-06T01:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Bayonne Public Schools Class Visit",
+        "start": "2026-03-06T14:30:00+00:00",
+        "end": "2026-03-06T16:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "New Parent Support Group",
+        "start": "2026-03-06T17:00:00+00:00",
+        "end": "2026-03-06T18:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Lapsit Program (Ages 18-24 Months)",
+        "start": "2026-03-09T14:30:00+00:00",
+        "end": "2026-03-09T15:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Intuitive Tarot Card Reading",
+        "start": "2026-03-09T23:00:00+00:00",
+        "end": "2026-03-10T00:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "BBOED Principals' Meeting",
+        "start": "2026-03-10T13:15:00+00:00",
+        "end": "2026-03-10T15:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Parent/Toddler Time (Ages 2-3 Years Old)",
+        "start": "2026-03-10T14:30:00+00:00",
+        "end": "2026-03-10T15:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Free Childhood Vaccination Clinic (Ages 18 and Under)",
+        "start": "2026-03-11T18:00:00+00:00",
+        "end": "2026-03-11T21:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Red Foxes Senior Group",
+        "start": "2026-03-11T18:00:00+00:00",
+        "end": "2026-03-11T22:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Story Time (Ages 4-5 Years Old)",
+        "start": "2026-03-11T19:15:00+00:00",
+        "end": "2026-03-11T20:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Chess Club (Ages 8-18)",
+        "start": "2026-03-11T22:00:00+00:00",
+        "end": "2026-03-11T23:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Arts & Crafts (Ages 6-10)",
+        "start": "2026-03-12T19:15:00+00:00",
+        "end": "2026-03-12T20:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Book a Librarian",
+        "start": "2026-03-12T21:30:00+00:00",
+        "end": "2026-03-13T00:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Family Yoga",
+        "start": "2026-03-14T14:00:00+00:00",
+        "end": "2026-03-14T15:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Lapsit Program (Ages 18-24 Months)",
+        "start": "2026-03-16T14:30:00+00:00",
+        "end": "2026-03-16T15:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Parent/Toddler Time (Ages 2-3 Years Old)",
+        "start": "2026-03-17T14:30:00+00:00",
+        "end": "2026-03-17T15:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Bayonne Public Schools Class Visit",
+        "start": "2026-03-18T13:30:00+00:00",
+        "end": "2026-03-18T15:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Story Time (Ages 4-5 Years Old)",
+        "start": "2026-03-18T19:15:00+00:00",
+        "end": "2026-03-18T20:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Multiple Sclerosis Monthly Support Meeting",
+        "start": "2026-03-18T21:00:00+00:00",
+        "end": "2026-03-18T23:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Chess Club (Ages 8-18)",
+        "start": "2026-03-18T22:00:00+00:00",
+        "end": "2026-03-18T23:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Evening Yoga Class",
+        "start": "2026-03-18T23:00:00+00:00",
+        "end": "2026-03-19T00:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Arts & Crafts (Ages 6-10)",
+        "start": "2026-03-19T19:15:00+00:00",
+        "end": "2026-03-19T20:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Book a Librarian",
+        "start": "2026-03-19T21:30:00+00:00",
+        "end": "2026-03-20T00:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "New Parent Support Group",
+        "start": "2026-03-20T16:00:00+00:00",
+        "end": "2026-03-20T17:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Lapsit Program (Ages 18-24 Months)",
+        "start": "2026-03-23T14:30:00+00:00",
+        "end": "2026-03-23T15:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Intuitive Tarot Card Reading",
+        "start": "2026-03-23T23:00:00+00:00",
+        "end": "2026-03-24T00:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Parent/Toddler Time (Ages 2-3 Years Old)",
+        "start": "2026-03-24T14:30:00+00:00",
+        "end": "2026-03-24T15:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Self Help Group for the Visually Impaired",
+        "start": "2026-03-25T17:00:00+00:00",
+        "end": "2026-03-25T19:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Story Time (Ages 4-5 Years Old)",
+        "start": "2026-03-25T19:15:00+00:00",
+        "end": "2026-03-25T20:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Chess Club (Ages 8-18)",
+        "start": "2026-03-25T22:00:00+00:00",
+        "end": "2026-03-25T23:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Flu and COVID Vaccination Clinic",
+        "start": "2026-03-26T14:30:00+00:00",
+        "end": "2026-03-26T21:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Arts & Crafts (Ages 6-10)",
+        "start": "2026-03-26T19:15:00+00:00",
+        "end": "2026-03-26T20:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Book a Librarian",
+        "start": "2026-03-26T21:30:00+00:00",
+        "end": "2026-03-27T00:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Hudson County Teen Arts Festival Meeting",
+        "start": "2026-03-27T14:00:00+00:00",
+        "end": "2026-03-27T16:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Lapsit Program (Ages 18-24 Months)",
+        "start": "2026-03-30T14:30:00+00:00",
+        "end": "2026-03-30T15:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Parent/Toddler Time (Ages 2-3 Years Old)",
+        "start": "2026-03-31T14:30:00+00:00",
+        "end": "2026-03-31T15:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Story Time (Ages 4-5 Years Old)",
+        "start": "2026-04-01T19:15:00+00:00",
+        "end": "2026-04-01T20:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Chess Club (Ages 8-18)",
+        "start": "2026-04-01T22:00:00+00:00",
+        "end": "2026-04-01T23:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Arts & Crafts (Ages 6-10)",
+        "start": "2026-04-02T19:15:00+00:00",
+        "end": "2026-04-02T20:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Book a Librarian",
+        "start": "2026-04-02T21:30:00+00:00",
+        "end": "2026-04-03T00:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Library Closed - Good Friday & Easter",
+        "start": "2026-04-03",
+        "end": "2026-04-04",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Lapsit Program (Ages 18-24 Months)",
+        "start": "2026-04-06T14:30:00+00:00",
+        "end": "2026-04-06T15:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Intuitive Tarot Card Reading",
+        "start": "2026-04-06T23:00:00+00:00",
+        "end": "2026-04-07T00:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "BBOED Principals' Meeting",
+        "start": "2026-04-07T13:15:00+00:00",
+        "end": "2026-04-07T15:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Parent/Toddler Time (Ages 2-3 Years Old)",
+        "start": "2026-04-07T14:30:00+00:00",
+        "end": "2026-04-07T15:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Kidney Wellness Workshop",
+        "start": "2026-04-07T14:30:00+00:00",
+        "end": "2026-04-07T17:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Free Childhood Vaccination Clinic (Ages 18 and Under)",
+        "start": "2026-04-07T18:00:00+00:00",
+        "end": "2026-04-07T21:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "NAACP Membership Meetings",
+        "start": "2026-04-07T22:00:00+00:00",
+        "end": "2026-04-08T00:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Library Board of Trustees Meeting",
+        "start": "2026-04-07T23:00:00+00:00",
+        "end": "2026-04-08T00:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Red Foxes Senior Group",
+        "start": "2026-04-08T18:00:00+00:00",
+        "end": "2026-04-08T22:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Story Time (Ages 4-5 Years Old)",
+        "start": "2026-04-08T19:15:00+00:00",
+        "end": "2026-04-08T20:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Chess Club (Ages 8-18)",
+        "start": "2026-04-08T22:00:00+00:00",
+        "end": "2026-04-08T23:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Evening Yoga Class",
+        "start": "2026-04-08T23:00:00+00:00",
+        "end": "2026-04-09T00:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Arts & Crafts (Ages 6-10)",
+        "start": "2026-04-09T19:15:00+00:00",
+        "end": "2026-04-09T20:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Book a Librarian",
+        "start": "2026-04-09T21:30:00+00:00",
+        "end": "2026-04-10T00:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "New Parent Support Group",
+        "start": "2026-04-10T16:00:00+00:00",
+        "end": "2026-04-10T17:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Lapsit Program (Ages 18-24 Months)",
+        "start": "2026-04-13T14:30:00+00:00",
+        "end": "2026-04-13T15:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Parent/Toddler Time (Ages 2-3 Years Old)",
+        "start": "2026-04-14T14:30:00+00:00",
+        "end": "2026-04-14T15:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Story Time (Ages 4-5 Years Old)",
+        "start": "2026-04-15T19:15:00+00:00",
+        "end": "2026-04-15T20:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Chess Club (Ages 8-18)",
+        "start": "2026-04-15T22:00:00+00:00",
+        "end": "2026-04-15T23:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Arts & Crafts (Ages 6-10)",
+        "start": "2026-04-16T19:15:00+00:00",
+        "end": "2026-04-16T20:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Book a Librarian",
+        "start": "2026-04-16T21:30:00+00:00",
+        "end": "2026-04-17T00:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "New Parent Support Group",
+        "start": "2026-04-17T16:00:00+00:00",
+        "end": "2026-04-17T17:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Family Yoga",
+        "start": "2026-04-18T14:00:00+00:00",
+        "end": "2026-04-18T15:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Lapsit Program (Ages 18-24 Months)",
+        "start": "2026-04-20T14:30:00+00:00",
+        "end": "2026-04-20T15:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Intuitive Tarot Card Reading",
+        "start": "2026-04-20T23:00:00+00:00",
+        "end": "2026-04-21T00:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Parent/Toddler Time (Ages 2-3 Years Old)",
+        "start": "2026-04-21T14:30:00+00:00",
+        "end": "2026-04-21T15:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Self Help Group for the Visually Impaired",
+        "start": "2026-04-22T17:00:00+00:00",
+        "end": "2026-04-22T19:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Story Time (Ages 4-5 Years Old)",
+        "start": "2026-04-22T19:15:00+00:00",
+        "end": "2026-04-22T20:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Multiple Sclerosis Monthly Support Meeting",
+        "start": "2026-04-22T21:00:00+00:00",
+        "end": "2026-04-22T23:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Chess Club (Ages 8-18)",
+        "start": "2026-04-22T22:00:00+00:00",
+        "end": "2026-04-22T23:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Evening Yoga Class",
+        "start": "2026-04-22T23:00:00+00:00",
+        "end": "2026-04-23T00:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Flu and COVID Vaccination Clinic",
+        "start": "2026-04-23T14:30:00+00:00",
+        "end": "2026-04-23T21:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Arts & Crafts (Ages 6-10)",
+        "start": "2026-04-23T19:15:00+00:00",
+        "end": "2026-04-23T20:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Book a Librarian",
+        "start": "2026-04-23T21:30:00+00:00",
+        "end": "2026-04-24T00:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Lapsit Program (Ages 18-24 Months)",
+        "start": "2026-04-27T14:30:00+00:00",
+        "end": "2026-04-27T15:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Parent/Toddler Time (Ages 2-3 Years Old)",
+        "start": "2026-04-28T14:30:00+00:00",
+        "end": "2026-04-28T15:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Story Time (Ages 4-5 Years Old)",
+        "start": "2026-04-29T19:15:00+00:00",
+        "end": "2026-04-29T20:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Chess Club (Ages 8-18)",
+        "start": "2026-04-29T22:00:00+00:00",
+        "end": "2026-04-29T23:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Arts & Crafts (Ages 6-10)",
+        "start": "2026-04-30T19:15:00+00:00",
+        "end": "2026-04-30T20:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Book a Librarian",
+        "start": "2026-04-30T21:30:00+00:00",
+        "end": "2026-05-01T00:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "New Parent Support Group",
+        "start": "2026-05-01T16:00:00+00:00",
+        "end": "2026-05-01T17:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Family Yoga",
+        "start": "2026-05-02T14:00:00+00:00",
+        "end": "2026-05-02T15:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Lapsit Program (Ages 18-24 Months)",
+        "start": "2026-05-04T14:30:00+00:00",
+        "end": "2026-05-04T15:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Intuitive Tarot Card Reading",
+        "start": "2026-05-04T23:00:00+00:00",
+        "end": "2026-05-05T00:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Parent/Toddler Time (Ages 2-3 Years Old)",
+        "start": "2026-05-05T14:30:00+00:00",
+        "end": "2026-05-05T15:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Kidney Wellness Workshop",
+        "start": "2026-05-05T14:30:00+00:00",
+        "end": "2026-05-05T17:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Free Childhood Vaccination Clinic (Ages 18 and Under)",
+        "start": "2026-05-05T18:00:00+00:00",
+        "end": "2026-05-05T21:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "NAACP Membership Meetings",
+        "start": "2026-05-05T22:00:00+00:00",
+        "end": "2026-05-06T00:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Library Board of Trustees Meeting",
+        "start": "2026-05-05T23:00:00+00:00",
+        "end": "2026-05-06T00:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Story Time (Ages 4-5 Years Old)",
+        "start": "2026-05-06T19:15:00+00:00",
+        "end": "2026-05-06T20:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Chess Club (Ages 8-18)",
+        "start": "2026-05-06T22:00:00+00:00",
+        "end": "2026-05-06T23:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Evening Yoga Class",
+        "start": "2026-05-06T23:00:00+00:00",
+        "end": "2026-05-07T00:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Arts & Crafts (Ages 6-10)",
+        "start": "2026-05-07T19:15:00+00:00",
+        "end": "2026-05-07T20:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Book a Librarian",
+        "start": "2026-05-07T21:30:00+00:00",
+        "end": "2026-05-08T00:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Lapsit Program (Ages 18-24 Months)",
+        "start": "2026-05-11T14:30:00+00:00",
+        "end": "2026-05-11T15:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "BBOED Principals' Meeting",
+        "start": "2026-05-12T13:15:00+00:00",
+        "end": "2026-05-12T15:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Parent/Toddler Time (Ages 2-3 Years Old)",
+        "start": "2026-05-12T14:30:00+00:00",
+        "end": "2026-05-12T15:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Red Foxes Senior Group",
+        "start": "2026-05-13T18:00:00+00:00",
+        "end": "2026-05-13T22:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Story Time (Ages 4-5 Years Old)",
+        "start": "2026-05-13T19:15:00+00:00",
+        "end": "2026-05-13T20:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Chess Club (Ages 8-18)",
+        "start": "2026-05-13T22:00:00+00:00",
+        "end": "2026-05-13T23:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Arts & Crafts (Ages 6-10)",
+        "start": "2026-05-14T19:15:00+00:00",
+        "end": "2026-05-14T20:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Book a Librarian",
+        "start": "2026-05-14T21:30:00+00:00",
+        "end": "2026-05-15T00:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "New Parent Support Group",
+        "start": "2026-05-15T16:00:00+00:00",
+        "end": "2026-05-15T17:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Lapsit Program (Ages 18-24 Months)",
+        "start": "2026-05-18T14:30:00+00:00",
+        "end": "2026-05-18T15:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Intuitive Tarot Card Reading",
+        "start": "2026-05-18T23:00:00+00:00",
+        "end": "2026-05-19T00:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Parent/Toddler Time (Ages 2-3 Years Old)",
+        "start": "2026-05-19T14:30:00+00:00",
+        "end": "2026-05-19T15:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Story Time (Ages 4-5 Years Old)",
+        "start": "2026-05-20T19:15:00+00:00",
+        "end": "2026-05-20T20:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Multiple Sclerosis Monthly Support Meeting",
+        "start": "2026-05-20T21:00:00+00:00",
+        "end": "2026-05-20T23:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Chess Club (Ages 8-18)",
+        "start": "2026-05-20T22:00:00+00:00",
+        "end": "2026-05-20T23:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Arts & Crafts (Ages 6-10)",
+        "start": "2026-05-21T19:15:00+00:00",
+        "end": "2026-05-21T20:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Book a Librarian",
+        "start": "2026-05-21T21:30:00+00:00",
+        "end": "2026-05-22T00:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Library Closed - Memorial Day",
+        "start": "2026-05-25",
+        "end": "2026-05-26",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Parent/Toddler Time (Ages 2-3 Years Old)",
+        "start": "2026-05-26T14:30:00+00:00",
+        "end": "2026-05-26T15:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Self Help Group for the Visually Impaired",
+        "start": "2026-05-27T17:00:00+00:00",
+        "end": "2026-05-27T19:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Story Time (Ages 4-5 Years Old)",
+        "start": "2026-05-27T19:15:00+00:00",
+        "end": "2026-05-27T20:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Chess Club (Ages 8-18)",
+        "start": "2026-05-27T22:00:00+00:00",
+        "end": "2026-05-27T23:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Flu and COVID Vaccination Clinic",
+        "start": "2026-05-28T14:30:00+00:00",
+        "end": "2026-05-28T21:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Arts & Crafts (Ages 6-10)",
+        "start": "2026-05-28T19:15:00+00:00",
+        "end": "2026-05-28T20:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Book a Librarian",
+        "start": "2026-05-28T21:30:00+00:00",
+        "end": "2026-05-29T00:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Lapsit Program (Ages 18-24 Months)",
+        "start": "2026-06-01T14:30:00+00:00",
+        "end": "2026-06-01T15:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Parent/Toddler Time (Ages 2-3 Years Old)",
+        "start": "2026-06-02T14:30:00+00:00",
+        "end": "2026-06-02T15:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Kidney Wellness Workshop",
+        "start": "2026-06-02T14:30:00+00:00",
+        "end": "2026-06-02T17:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Free Childhood Vaccination Clinic (Ages 18 and Under)",
+        "start": "2026-06-02T18:00:00+00:00",
+        "end": "2026-06-02T21:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "NAACP Membership Meetings",
+        "start": "2026-06-02T22:00:00+00:00",
+        "end": "2026-06-03T00:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Library Board of Trustees Meeting",
+        "start": "2026-06-02T23:00:00+00:00",
+        "end": "2026-06-03T00:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Story Time (Ages 4-5 Years Old)",
+        "start": "2026-06-03T19:15:00+00:00",
+        "end": "2026-06-03T20:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Chess Club (Ages 8-18)",
+        "start": "2026-06-03T22:00:00+00:00",
+        "end": "2026-06-03T23:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Evening Yoga Class",
+        "start": "2026-06-03T23:00:00+00:00",
+        "end": "2026-06-04T00:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Arts & Crafts (Ages 6-10)",
+        "start": "2026-06-04T19:15:00+00:00",
+        "end": "2026-06-04T20:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Book a Librarian",
+        "start": "2026-06-04T21:30:00+00:00",
+        "end": "2026-06-05T00:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Family Yoga",
+        "start": "2026-06-06T14:00:00+00:00",
+        "end": "2026-06-06T15:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Lapsit Program (Ages 18-24 Months)",
+        "start": "2026-06-08T14:30:00+00:00",
+        "end": "2026-06-08T15:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Intuitive Tarot Card Reading",
+        "start": "2026-06-08T23:00:00+00:00",
+        "end": "2026-06-09T00:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "BBOED Principals' Meeting",
+        "start": "2026-06-09T13:15:00+00:00",
+        "end": "2026-06-09T15:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Parent/Toddler Time (Ages 2-3 Years Old)",
+        "start": "2026-06-09T14:30:00+00:00",
+        "end": "2026-06-09T15:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Red Foxes Senior Group",
+        "start": "2026-06-10T18:00:00+00:00",
+        "end": "2026-06-10T22:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Story Time (Ages 4-5 Years Old)",
+        "start": "2026-06-10T19:15:00+00:00",
+        "end": "2026-06-10T20:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Chess Club (Ages 8-18)",
+        "start": "2026-06-10T22:00:00+00:00",
+        "end": "2026-06-10T23:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Arts & Crafts (Ages 6-10)",
+        "start": "2026-06-11T19:15:00+00:00",
+        "end": "2026-06-11T20:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Book a Librarian",
+        "start": "2026-06-11T21:30:00+00:00",
+        "end": "2026-06-12T00:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "New Parent Support Group",
+        "start": "2026-06-12T16:00:00+00:00",
+        "end": "2026-06-12T17:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Lapsit Program (Ages 18-24 Months)",
+        "start": "2026-06-15T14:30:00+00:00",
+        "end": "2026-06-15T15:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Parent/Toddler Time (Ages 2-3 Years Old)",
+        "start": "2026-06-16T14:30:00+00:00",
+        "end": "2026-06-16T15:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Story Time (Ages 4-5 Years Old)",
+        "start": "2026-06-17T19:15:00+00:00",
+        "end": "2026-06-17T20:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Chess Club (Ages 8-18)",
+        "start": "2026-06-17T22:00:00+00:00",
+        "end": "2026-06-17T23:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Evening Yoga Class",
+        "start": "2026-06-17T23:00:00+00:00",
+        "end": "2026-06-18T00:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Arts & Crafts (Ages 6-10)",
+        "start": "2026-06-18T19:15:00+00:00",
+        "end": "2026-06-18T20:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Book a Librarian",
+        "start": "2026-06-18T21:30:00+00:00",
+        "end": "2026-06-19T00:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Library Closed - Juneteenth",
+        "start": "2026-06-19",
+        "end": "2026-06-20",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Lapsit Program (Ages 18-24 Months)",
+        "start": "2026-06-22T14:30:00+00:00",
+        "end": "2026-06-22T15:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Intuitive Tarot Card Reading",
+        "start": "2026-06-22T23:00:00+00:00",
+        "end": "2026-06-23T00:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Parent/Toddler Time (Ages 2-3 Years Old)",
+        "start": "2026-06-23T14:30:00+00:00",
+        "end": "2026-06-23T15:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Self Help Group for the Visually Impaired",
+        "start": "2026-06-24T17:00:00+00:00",
+        "end": "2026-06-24T19:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Story Time (Ages 4-5 Years Old)",
+        "start": "2026-06-24T19:15:00+00:00",
+        "end": "2026-06-24T20:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Multiple Sclerosis Monthly Support Meeting",
+        "start": "2026-06-24T21:00:00+00:00",
+        "end": "2026-06-24T23:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Chess Club (Ages 8-18)",
+        "start": "2026-06-24T22:00:00+00:00",
+        "end": "2026-06-24T23:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Flu and COVID Vaccination Clinic",
+        "start": "2026-06-25T14:30:00+00:00",
+        "end": "2026-06-25T21:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Arts & Crafts (Ages 6-10)",
+        "start": "2026-06-25T19:15:00+00:00",
+        "end": "2026-06-25T20:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Book a Librarian",
+        "start": "2026-06-25T21:30:00+00:00",
+        "end": "2026-06-26T00:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "New Parent Support Group",
+        "start": "2026-06-26T16:00:00+00:00",
+        "end": "2026-06-26T17:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Lapsit Program (Ages 18-24 Months)",
+        "start": "2026-06-29T14:30:00+00:00",
+        "end": "2026-06-29T15:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Parent/Toddler Time (Ages 2-3 Years Old)",
+        "start": "2026-06-30T14:30:00+00:00",
+        "end": "2026-06-30T15:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Story Time (Ages 4-5 Years Old)",
+        "start": "2026-07-01T19:15:00+00:00",
+        "end": "2026-07-01T20:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Chess Club (Ages 8-18)",
+        "start": "2026-07-01T22:00:00+00:00",
+        "end": "2026-07-01T23:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Evening Yoga Class",
+        "start": "2026-07-01T23:00:00+00:00",
+        "end": "2026-07-02T00:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Arts & Crafts (Ages 6-10)",
+        "start": "2026-07-02T19:15:00+00:00",
+        "end": "2026-07-02T20:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Book a Librarian",
+        "start": "2026-07-02T21:30:00+00:00",
+        "end": "2026-07-03T00:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Library Closed - Independence Day",
+        "start": "2026-07-03",
+        "end": "2026-07-04",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Lapsit Program (Ages 18-24 Months)",
+        "start": "2026-07-06T14:30:00+00:00",
+        "end": "2026-07-06T15:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Parent/Toddler Time (Ages 2-3 Years Old)",
+        "start": "2026-07-07T14:30:00+00:00",
+        "end": "2026-07-07T15:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Kidney Wellness Workshop",
+        "start": "2026-07-07T14:30:00+00:00",
+        "end": "2026-07-07T17:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "NAACP Membership Meetings",
+        "start": "2026-07-07T22:00:00+00:00",
+        "end": "2026-07-08T00:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Red Foxes Senior Group",
+        "start": "2026-07-08T18:00:00+00:00",
+        "end": "2026-07-08T22:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Story Time (Ages 4-5 Years Old)",
+        "start": "2026-07-08T19:15:00+00:00",
+        "end": "2026-07-08T20:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Chess Club (Ages 8-18)",
+        "start": "2026-07-08T22:00:00+00:00",
+        "end": "2026-07-08T23:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Arts & Crafts (Ages 6-10)",
+        "start": "2026-07-09T19:15:00+00:00",
+        "end": "2026-07-09T20:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Book a Librarian",
+        "start": "2026-07-09T21:30:00+00:00",
+        "end": "2026-07-10T00:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Lapsit Program (Ages 18-24 Months)",
+        "start": "2026-07-13T14:30:00+00:00",
+        "end": "2026-07-13T15:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Intuitive Tarot Card Reading",
+        "start": "2026-07-13T23:00:00+00:00",
+        "end": "2026-07-14T00:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Parent/Toddler Time (Ages 2-3 Years Old)",
+        "start": "2026-07-14T14:30:00+00:00",
+        "end": "2026-07-14T15:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Story Time (Ages 4-5 Years Old)",
+        "start": "2026-07-15T19:15:00+00:00",
+        "end": "2026-07-15T20:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Chess Club (Ages 8-18)",
+        "start": "2026-07-15T22:00:00+00:00",
+        "end": "2026-07-15T23:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Arts & Crafts (Ages 6-10)",
+        "start": "2026-07-16T19:15:00+00:00",
+        "end": "2026-07-16T20:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Book a Librarian",
+        "start": "2026-07-16T21:30:00+00:00",
+        "end": "2026-07-17T00:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Lapsit Program (Ages 18-24 Months)",
+        "start": "2026-07-20T14:30:00+00:00",
+        "end": "2026-07-20T15:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Parent/Toddler Time (Ages 2-3 Years Old)",
+        "start": "2026-07-21T14:30:00+00:00",
+        "end": "2026-07-21T15:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Self Help Group for the Visually Impaired",
+        "start": "2026-07-22T17:00:00+00:00",
+        "end": "2026-07-22T19:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Story Time (Ages 4-5 Years Old)",
+        "start": "2026-07-22T19:15:00+00:00",
+        "end": "2026-07-22T20:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Multiple Sclerosis Monthly Support Meeting",
+        "start": "2026-07-22T21:00:00+00:00",
+        "end": "2026-07-22T23:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Chess Club (Ages 8-18)",
+        "start": "2026-07-22T22:00:00+00:00",
+        "end": "2026-07-22T23:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Evening Yoga Class",
+        "start": "2026-07-22T23:00:00+00:00",
+        "end": "2026-07-23T00:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Arts & Crafts (Ages 6-10)",
+        "start": "2026-07-23T19:15:00+00:00",
+        "end": "2026-07-23T20:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Book a Librarian",
+        "start": "2026-07-23T21:30:00+00:00",
+        "end": "2026-07-24T00:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Lapsit Program (Ages 18-24 Months)",
+        "start": "2026-07-27T14:30:00+00:00",
+        "end": "2026-07-27T15:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Intuitive Tarot Card Reading",
+        "start": "2026-07-27T23:00:00+00:00",
+        "end": "2026-07-28T00:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Parent/Toddler Time (Ages 2-3 Years Old)",
+        "start": "2026-07-28T14:30:00+00:00",
+        "end": "2026-07-28T15:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Story Time (Ages 4-5 Years Old)",
+        "start": "2026-07-29T19:15:00+00:00",
+        "end": "2026-07-29T20:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Chess Club (Ages 8-18)",
+        "start": "2026-07-29T22:00:00+00:00",
+        "end": "2026-07-29T23:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Arts & Crafts (Ages 6-10)",
+        "start": "2026-07-30T19:15:00+00:00",
+        "end": "2026-07-30T20:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Book a Librarian",
+        "start": "2026-07-30T21:30:00+00:00",
+        "end": "2026-07-31T00:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Lapsit Program (Ages 18-24 Months)",
+        "start": "2026-08-03T14:30:00+00:00",
+        "end": "2026-08-03T15:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Parent/Toddler Time (Ages 2-3 Years Old)",
+        "start": "2026-08-04T14:30:00+00:00",
+        "end": "2026-08-04T15:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Kidney Wellness Workshop",
+        "start": "2026-08-04T14:30:00+00:00",
+        "end": "2026-08-04T17:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "NAACP Membership Meetings",
+        "start": "2026-08-04T22:00:00+00:00",
+        "end": "2026-08-05T00:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Story Time (Ages 4-5 Years Old)",
+        "start": "2026-08-05T19:15:00+00:00",
+        "end": "2026-08-05T20:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Chess Club (Ages 8-18)",
+        "start": "2026-08-05T22:00:00+00:00",
+        "end": "2026-08-05T23:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Evening Yoga Class",
+        "start": "2026-08-05T23:00:00+00:00",
+        "end": "2026-08-06T00:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Arts & Crafts (Ages 6-10)",
+        "start": "2026-08-06T19:15:00+00:00",
+        "end": "2026-08-06T20:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Book a Librarian",
+        "start": "2026-08-06T21:30:00+00:00",
+        "end": "2026-08-07T00:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Lapsit Program (Ages 18-24 Months)",
+        "start": "2026-08-10T14:30:00+00:00",
+        "end": "2026-08-10T15:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Intuitive Tarot Card Reading",
+        "start": "2026-08-10T23:00:00+00:00",
+        "end": "2026-08-11T00:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Parent/Toddler Time (Ages 2-3 Years Old)",
+        "start": "2026-08-11T14:30:00+00:00",
+        "end": "2026-08-11T15:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Red Foxes Senior Group",
+        "start": "2026-08-12T18:00:00+00:00",
+        "end": "2026-08-12T22:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Story Time (Ages 4-5 Years Old)",
+        "start": "2026-08-12T19:15:00+00:00",
+        "end": "2026-08-12T20:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Chess Club (Ages 8-18)",
+        "start": "2026-08-12T22:00:00+00:00",
+        "end": "2026-08-12T23:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Arts & Crafts (Ages 6-10)",
+        "start": "2026-08-13T19:15:00+00:00",
+        "end": "2026-08-13T20:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Book a Librarian",
+        "start": "2026-08-13T21:30:00+00:00",
+        "end": "2026-08-14T00:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Lapsit Program (Ages 18-24 Months)",
+        "start": "2026-08-17T14:30:00+00:00",
+        "end": "2026-08-17T15:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Parent/Toddler Time (Ages 2-3 Years Old)",
+        "start": "2026-08-18T14:30:00+00:00",
+        "end": "2026-08-18T15:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Story Time (Ages 4-5 Years Old)",
+        "start": "2026-08-19T19:15:00+00:00",
+        "end": "2026-08-19T20:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Multiple Sclerosis Monthly Support Meeting",
+        "start": "2026-08-19T21:00:00+00:00",
+        "end": "2026-08-19T23:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Chess Club (Ages 8-18)",
+        "start": "2026-08-19T22:00:00+00:00",
+        "end": "2026-08-19T23:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Evening Yoga Class",
+        "start": "2026-08-19T23:00:00+00:00",
+        "end": "2026-08-20T00:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Arts & Crafts (Ages 6-10)",
+        "start": "2026-08-20T19:15:00+00:00",
+        "end": "2026-08-20T20:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Book a Librarian",
+        "start": "2026-08-20T21:30:00+00:00",
+        "end": "2026-08-21T00:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Lapsit Program (Ages 18-24 Months)",
+        "start": "2026-08-24T14:30:00+00:00",
+        "end": "2026-08-24T15:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Intuitive Tarot Card Reading",
+        "start": "2026-08-24T23:00:00+00:00",
+        "end": "2026-08-25T00:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Parent/Toddler Time (Ages 2-3 Years Old)",
+        "start": "2026-08-25T14:30:00+00:00",
+        "end": "2026-08-25T15:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Self Help Group for the Visually Impaired",
+        "start": "2026-08-26T17:00:00+00:00",
+        "end": "2026-08-26T19:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Story Time (Ages 4-5 Years Old)",
+        "start": "2026-08-26T19:15:00+00:00",
+        "end": "2026-08-26T20:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Chess Club (Ages 8-18)",
+        "start": "2026-08-26T22:00:00+00:00",
+        "end": "2026-08-26T23:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Arts & Crafts (Ages 6-10)",
+        "start": "2026-08-27T19:15:00+00:00",
+        "end": "2026-08-27T20:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Book a Librarian",
+        "start": "2026-08-27T21:30:00+00:00",
+        "end": "2026-08-28T00:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Lapsit Program (Ages 18-24 Months)",
+        "start": "2026-08-31T14:30:00+00:00",
+        "end": "2026-08-31T15:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Parent/Toddler Time (Ages 2-3 Years Old)",
+        "start": "2026-09-01T14:30:00+00:00",
+        "end": "2026-09-01T15:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Kidney Wellness Workshop",
+        "start": "2026-09-01T14:30:00+00:00",
+        "end": "2026-09-01T17:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "NAACP Membership Meetings",
+        "start": "2026-09-01T22:00:00+00:00",
+        "end": "2026-09-02T00:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Library Board of Trustees Meeting",
+        "start": "2026-09-01T23:00:00+00:00",
+        "end": "2026-09-02T00:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Story Time (Ages 4-5 Years Old)",
+        "start": "2026-09-02T19:15:00+00:00",
+        "end": "2026-09-02T20:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Chess Club (Ages 8-18)",
+        "start": "2026-09-02T22:00:00+00:00",
+        "end": "2026-09-02T23:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Arts & Crafts (Ages 6-10)",
+        "start": "2026-09-03T19:15:00+00:00",
+        "end": "2026-09-03T20:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Book a Librarian",
+        "start": "2026-09-03T21:30:00+00:00",
+        "end": "2026-09-04T00:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Library Closed - Labor Day",
+        "start": "2026-09-07",
+        "end": "2026-09-08",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Parent/Toddler Time (Ages 2-3 Years Old)",
+        "start": "2026-09-08T14:30:00+00:00",
+        "end": "2026-09-08T15:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Red Foxes Senior Group",
+        "start": "2026-09-09T18:00:00+00:00",
+        "end": "2026-09-09T22:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Story Time (Ages 4-5 Years Old)",
+        "start": "2026-09-09T19:15:00+00:00",
+        "end": "2026-09-09T20:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Chess Club (Ages 8-18)",
+        "start": "2026-09-09T22:00:00+00:00",
+        "end": "2026-09-09T23:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Evening Yoga Class",
+        "start": "2026-09-09T23:00:00+00:00",
+        "end": "2026-09-10T00:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Arts & Crafts (Ages 6-10)",
+        "start": "2026-09-10T19:15:00+00:00",
+        "end": "2026-09-10T20:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Book a Librarian",
+        "start": "2026-09-10T21:30:00+00:00",
+        "end": "2026-09-11T00:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Lapsit Program (Ages 18-24 Months)",
+        "start": "2026-09-14T14:30:00+00:00",
+        "end": "2026-09-14T15:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Intuitive Tarot Card Reading",
+        "start": "2026-09-14T23:00:00+00:00",
+        "end": "2026-09-15T00:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Parent/Toddler Time (Ages 2-3 Years Old)",
+        "start": "2026-09-15T14:30:00+00:00",
+        "end": "2026-09-15T15:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Story Time (Ages 4-5 Years Old)",
+        "start": "2026-09-16T19:15:00+00:00",
+        "end": "2026-09-16T20:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Chess Club (Ages 8-18)",
+        "start": "2026-09-16T22:00:00+00:00",
+        "end": "2026-09-16T23:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Arts & Crafts (Ages 6-10)",
+        "start": "2026-09-17T19:15:00+00:00",
+        "end": "2026-09-17T20:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Book a Librarian",
+        "start": "2026-09-17T21:30:00+00:00",
+        "end": "2026-09-18T00:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Family Yoga",
+        "start": "2026-09-19T14:00:00+00:00",
+        "end": "2026-09-19T15:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Lapsit Program (Ages 18-24 Months)",
+        "start": "2026-09-21T14:30:00+00:00",
+        "end": "2026-09-21T15:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Intuitive Tarot Card Reading",
+        "start": "2026-09-21T23:00:00+00:00",
+        "end": "2026-09-22T00:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Parent/Toddler Time (Ages 2-3 Years Old)",
+        "start": "2026-09-22T14:30:00+00:00",
+        "end": "2026-09-22T15:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Self Help Group for the Visually Impaired",
+        "start": "2026-09-23T17:00:00+00:00",
+        "end": "2026-09-23T19:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Story Time (Ages 4-5 Years Old)",
+        "start": "2026-09-23T19:15:00+00:00",
+        "end": "2026-09-23T20:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Multiple Sclerosis Monthly Support Meeting",
+        "start": "2026-09-23T21:00:00+00:00",
+        "end": "2026-09-23T23:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Chess Club (Ages 8-18)",
+        "start": "2026-09-23T22:00:00+00:00",
+        "end": "2026-09-23T23:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Evening Yoga Class",
+        "start": "2026-09-23T23:00:00+00:00",
+        "end": "2026-09-24T00:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Arts & Crafts (Ages 6-10)",
+        "start": "2026-09-24T19:15:00+00:00",
+        "end": "2026-09-24T20:00:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Book a Librarian",
+        "start": "2026-09-24T21:30:00+00:00",
+        "end": "2026-09-25T00:30:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Lapsit Program (Ages 18-24 Months)",
+        "start": "2026-09-28T14:30:00+00:00",
+        "end": "2026-09-28T15:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    },
+    {
+        "summary": "Parent/Toddler Time (Ages 2-3 Years Old)",
+        "start": "2026-09-29T14:30:00+00:00",
+        "end": "2026-09-29T15:15:00+00:00",
+        "fetched_at": "2025-12-26T23:14:22.901721"
+    }
+]
