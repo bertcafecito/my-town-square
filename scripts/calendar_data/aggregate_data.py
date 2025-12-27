@@ -14,17 +14,16 @@ logger = logging.getLogger(__name__)
 
 def collect_events_from_feeds_folder(feeds_root_folder):
     all_events = []
-    for feed_folder in feeds_root_folder.iterdir():
-        if feed_folder.is_dir():
-            events_file = feed_folder / 'events.json'
-            logger.info(f"Reading events from {events_file}")
-            try:
-                with open(events_file, 'r', encoding='utf-8') as f:
-                    events = json.load(f)
-                    all_events.extend(events)
-                    logger.info(f"Loaded {len(events)} events from {events_file}")
-            except Exception as e:
-                logger.error(f"Failed to read events from {events_file}: {e}")
+    # Recursively search for all events.json files in the folder tree
+    for events_file in feeds_root_folder.rglob('events.json'):
+        logger.info(f"Reading events from {events_file}")
+        try:
+            with open(events_file, 'r', encoding='utf-8') as f:
+                events = json.load(f)
+                all_events.extend(events)
+                logger.info(f"Loaded {len(events)} events from {events_file}")
+        except Exception as e:
+            logger.error(f"Failed to read events from {events_file}: {e}")
 
     logger.info(f"Total events collected: {len(all_events)}")
     return all_events
