@@ -1,5 +1,14 @@
 # My Town Square - Bayonne Community Events
 
+[![Hugo](https://img.shields.io/badge/Hugo-0.120.0+-FF4088?style=for-the-badge&logo=hugo&logoColor=white)](https://gohugo.io/)
+[![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/bertcafecito/my-town-square?style=for-the-badge&logo=github)](https://github.com/bertcafecito/my-town-square/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/bertcafecito/my-town-square?style=for-the-badge&logo=github)](https://github.com/bertcafecito/my-town-square/issues)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](https://github.com/bertcafecito/my-town-square/pulls)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge)](https://github.com/bertcafecito/my-town-square/graphs/commit-activity)
+[![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red.svg?style=for-the-badge)](https://github.com/bertcafecito/my-town-square)
+
 A community hub for discovering local events in Bayonne, NJ - no social media required.
 
 ## 🎯 Purpose
