@@ -1,0 +1,164 @@
+[
+    {
+        "summary": "First Day of School - All Grades (1/2 Day Students)",
+        "start": "2025-09-03T00:00:00",
+        "end": "2025-09-03T23:59:59",
+        "fetched_at": "2025-12-26T23:11:57.990262"
+    },
+    {
+        "summary": "Back to School Night - BHS",
+        "start": "2025-09-17T00:00:00",
+        "end": "2025-09-17T23:59:59",
+        "fetched_at": "2025-12-26T23:11:57.990262"
+    },
+    {
+        "summary": "Back to School Night - Community Schools",
+        "start": "2025-09-18T00:00:00",
+        "end": "2025-09-18T23:59:59",
+        "fetched_at": "2025-12-26T23:11:57.990262"
+    },
+    {
+        "summary": "Progress Report - BHS",
+        "start": "2025-10-02T00:00:00",
+        "end": "2025-10-02T23:59:59",
+        "fetched_at": "2025-12-26T23:11:57.990262"
+    },
+    {
+        "summary": "Progress Report - PreK-8",
+        "start": "2025-10-16T00:00:00",
+        "end": "2025-10-16T23:59:59",
+        "fetched_at": "2025-12-26T23:11:57.990262"
+    },
+    {
+        "summary": "End of 1st Marking Period - BHS",
+        "start": "2025-11-12T00:00:00",
+        "end": "2025-11-12T23:59:59",
+        "fetched_at": "2025-12-26T23:11:57.990262"
+    },
+    {
+        "summary": "Report Card Distribution - BHS",
+        "start": "2025-11-20T00:00:00",
+        "end": "2025-11-20T23:59:59",
+        "fetched_at": "2025-12-26T23:11:57.990262"
+    },
+    {
+        "summary": "Parents' Night - BHS",
+        "start": "2025-11-20T00:00:00",
+        "end": "2025-11-20T23:59:59",
+        "fetched_at": "2025-12-26T23:11:57.990262"
+    },
+    {
+        "summary": "End of 1st Trimester - PreK-8",
+        "start": "2025-12-09T00:00:00",
+        "end": "2025-12-09T23:59:59",
+        "fetched_at": "2025-12-26T23:11:57.990262"
+    },
+    {
+        "summary": "Progress Report - BHS",
+        "start": "2025-12-17T00:00:00",
+        "end": "2025-12-17T23:59:59",
+        "fetched_at": "2025-12-26T23:11:57.990262"
+    },
+    {
+        "summary": "Open House - PreK-8",
+        "start": "2025-12-18T00:00:00",
+        "end": "2025-12-18T23:59:59",
+        "fetched_at": "2025-12-26T23:11:57.990262"
+    },
+    {
+        "summary": "Report Card Distribution - PreK-8",
+        "start": "2025-12-18T00:00:00",
+        "end": "2025-12-18T23:59:59",
+        "fetched_at": "2025-12-26T23:11:57.990262"
+    },
+    {
+        "summary": "End of 2nd Marking Period - BHS",
+        "start": "2026-01-29T00:00:00",
+        "end": "2026-01-29T23:59:59",
+        "fetched_at": "2025-12-26T23:11:57.990262"
+    },
+    {
+        "summary": "Progress Report - PreK-8",
+        "start": "2026-02-02T00:00:00",
+        "end": "2026-02-02T23:59:59",
+        "fetched_at": "2025-12-26T23:11:57.990262"
+    },
+    {
+        "summary": "Report Card Distribution - BHS",
+        "start": "2026-02-05T00:00:00",
+        "end": "2026-02-05T23:59:59",
+        "fetched_at": "2025-12-26T23:11:57.990262"
+    },
+    {
+        "summary": "Mid-Year Parent Conference - BHS",
+        "start": "2026-02-05T00:00:00",
+        "end": "2026-02-05T23:59:59",
+        "fetched_at": "2025-12-26T23:11:57.990262"
+    },
+    {
+        "summary": "Progress Report - BHS",
+        "start": "2026-03-03T00:00:00",
+        "end": "2026-03-03T23:59:59",
+        "fetched_at": "2025-12-26T23:11:57.990262"
+    },
+    {
+        "summary": "End of 2nd Trimester - PreK-8",
+        "start": "2026-03-18T00:00:00",
+        "end": "2026-03-18T23:59:59",
+        "fetched_at": "2025-12-26T23:11:57.990262"
+    },
+    {
+        "summary": "Mid-Year Parent Conference - PreK-8",
+        "start": "2026-03-26T00:00:00",
+        "end": "2026-03-26T23:59:59",
+        "fetched_at": "2025-12-26T23:11:57.990262"
+    },
+    {
+        "summary": "Report Card Distribution - PreK-8",
+        "start": "2026-03-26T00:00:00",
+        "end": "2026-03-26T23:59:59",
+        "fetched_at": "2025-12-26T23:11:57.990262"
+    },
+    {
+        "summary": "End of 3rd Marking Period - BHS",
+        "start": "2026-03-31T00:00:00",
+        "end": "2026-03-31T23:59:59",
+        "fetched_at": "2025-12-26T23:11:57.990262"
+    },
+    {
+        "summary": "Report Card Distribution - BHS",
+        "start": "2026-04-20T00:00:00",
+        "end": "2026-04-20T23:59:59",
+        "fetched_at": "2025-12-26T23:11:57.990262"
+    },
+    {
+        "summary": "Progress Report - PreK-8",
+        "start": "2026-05-07T00:00:00",
+        "end": "2026-05-07T23:59:59",
+        "fetched_at": "2025-12-26T23:11:57.990262"
+    },
+    {
+        "summary": "Progress Report - BHS",
+        "start": "2026-05-13T00:00:00",
+        "end": "2026-05-13T23:59:59",
+        "fetched_at": "2025-12-26T23:11:57.990262"
+    },
+    {
+        "summary": "Last Day of School - All Grades",
+        "start": "2026-06-22T00:00:00",
+        "end": "2026-06-22T23:59:59",
+        "fetched_at": "2025-12-26T23:11:57.990262"
+    },
+    {
+        "summary": "End of 4th Marking Period - BHS",
+        "start": "2026-06-22T00:00:00",
+        "end": "2026-06-22T23:59:59",
+        "fetched_at": "2025-12-26T23:11:57.990262"
+    },
+    {
+        "summary": "End of 3rd Trimester - PreK-8",
+        "start": "2026-06-22T00:00:00",
+        "end": "2026-06-22T23:59:59",
+        "fetched_at": "2025-12-26T23:11:57.990262"
+    }
+]
