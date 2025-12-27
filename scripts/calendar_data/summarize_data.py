@@ -55,6 +55,7 @@ def count_events_by_month(aggregate_folder):
 def save_yearly_summaries(yearly_summaries, output_folder):
     """
     Save yearly summaries to separate YYYY.json files.
+    Preserves historical counts and only updates months currently in aggregate data.
     """
     output_path = Path(output_folder)
     output_path.mkdir(parents=True, exist_ok=True)
@@ -62,8 +63,22 @@ def save_yearly_summaries(yearly_summaries, output_folder):
     for year, monthly_counts in yearly_summaries.items():
         output_file = output_path / f"{year}.json"
         
+        # Load existing historical data if it exists
+        existing_counts = {}
+        if output_file.exists():
+            try:
+                with open(output_file, 'r', encoding='utf-8') as f:
+                    existing_counts = json.load(f)
+                logger.info(f"Loaded existing data from {output_file}")
+            except Exception as e:
+                logger.warning(f"Failed to load existing data from {output_file}: {e}")
+        
+        # Merge existing counts with new counts (new counts override for matching months)
+        merged_counts = existing_counts.copy()
+        merged_counts.update(monthly_counts)
+        
         # Sort months for consistent output
-        sorted_counts = {month: monthly_counts[month] for month in sorted(monthly_counts.keys())}
+        sorted_counts = {month: merged_counts[month] for month in sorted(merged_counts.keys())}
         
         try:
             with open(output_file, 'w', encoding='utf-8') as f:
