@@ -1,0 +1,14 @@
+<header class="site-header">
+  <div class="container">
+    <a href="{{ .Site.BaseURL }}" class="site-title">{{ .Site.Title }}</a>
+    <nav class="site-nav">
+      {{ range .Site.Menus.main }}
+        <a href="{{ .URL }}">{{ .Name }}</a>
+      {{ end }}
+      <button id="themeToggleHeader" class="theme-toggle-btn" aria-label="Toggle theme">
+        <span class="icon-light">☀️</span>
+        <span class="icon-dark">🌙</span>
+      </button>
+    </nav>
+  </div>
+</header>

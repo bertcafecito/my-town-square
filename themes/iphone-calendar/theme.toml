@@ -1,0 +1,12 @@
+name = "iPhone Calendar"
+license = "MIT"
+licenselink = "https://github.com/bertcafecito/my-town-square/blob/main/LICENSE"
+description = "A complete Hugo theme with iPhone-style calendar pages and clean standard page layouts. Features light/dark modes, color-blind accessibility, and responsive design."
+homepage = "https://github.com/bertcafecito/my-town-square"
+tags = ["calendar", "events", "responsive", "dark-mode", "accessibility", "iphone", "modern", "complete-theme"]
+features = ["calendar view", "event management", "dark mode", "color blind mode", "responsive design", "touch optimized", "dual layouts"]
+min_version = "0.112.0"
+
+[author]
+  name = "Albert Marrero"
+  homepage = "https://github.com/bertcafecito"

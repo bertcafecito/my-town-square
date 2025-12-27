@@ -1,0 +1,111 @@
+# iPhone Calendar Theme - Example Configuration
+
+This file shows example configurations for using the iPhone Calendar theme.
+
+## Basic hugo.toml Configuration
+
+```toml
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'My Community Calendar'
+theme = 'iphone-calendar'
+
+[params]
+  description = 'Community events and activities'
+  author = 'Your Name'
+
+[menu]
+  [[menu.main]]
+    name = 'Calendar'
+    url = '/calendar/'
+    weight = 10
+```
+
+## Using with Multiple Themes
+
+You can use the iPhone Calendar theme alongside other themes like PaperMod:
+
+```toml
+# iPhone Calendar will be checked first for layouts,
+# falling back to PaperMod for other pages
+theme = ['iphone-calendar', 'PaperMod']
+```
+
+## Calendar Page Front Matter
+
+Create a page at `content/calendar.md`:
+
+```markdown
++++
+title = 'Event Calendar'
+layout = 'calendar'
+draft = false
++++
+
+Welcome to our community calendar!
+```
+
+## Event Data Structure
+
+Place event data files in `data/aggregate_feed/`:
+
+**File: data/aggregate_feed/202501.json**
+```json
+[
+  {
+    "summary": "Town Meeting",
+    "start": "2025-01-15T19:00:00Z",
+    "end": "2025-01-15T21:00:00Z"
+  },
+  {
+    "summary": "Community BBQ",
+    "start": "2025-01-20T12:00:00Z",
+    "end": "2025-01-20T15:00:00Z"
+  }
+]
+```
+
+## Advanced Customization
+
+### Custom CSS Variables
+
+Create `assets/css/custom.css`:
+
+```css
+:root {
+  /* Override accent color */
+  --cal-accent: #FF6B6B;
+  
+  /* Override event colors */
+  --cal-blue: #4ECDC4;
+  --cal-green: #95E1D3;
+}
+```
+
+Then reference it in your baseof.html or add to theme:
+
+```html
+<link rel="stylesheet" href="{{ (resources.Get "css/custom.css").RelPermalink }}">
+```
+
+### Multiple Event Sources
+
+You can have multiple JSON files for different months:
+
+```
+data/
+  aggregate_feed/
+    202501.json  (January 2025 events)
+    202502.json  (February 2025 events)
+    202503.json  (March 2025 events)
+```
+
+The theme will automatically load all files in the aggregate_feed directory.
+
+## Tips
+
+1. **Event Colors**: Events are automatically assigned one of 8 colors based on a hash of their title
+2. **All-Day Events**: Events with start time 00:00:00 and duration >= 24 hours are shown as "all-day"
+3. **Time Zones**: Use ISO 8601 format with timezone (e.g., `2025-01-15T19:00:00Z` for UTC)
+4. **Accessibility**: Users can toggle between light/dark themes and enable color-blind mode
+5. **Mobile**: The theme is fully responsive and optimized for touch devices

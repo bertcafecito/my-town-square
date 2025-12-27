@@ -1,0 +1,17 @@
+{{ define "main" }}
+<article class="content">
+  <header>
+    <h1 class="page-title">{{ .Site.Title }}</h1>
+    {{ if .Site.Params.homeInfoParams }}
+    <div class="page-content">
+      <h2>{{ .Site.Params.homeInfoParams.Title }}</h2>
+      <p>{{ .Site.Params.homeInfoParams.Content }}</p>
+    </div>
+    {{ end }}
+  </header>
+  
+  <div class="page-content">
+    {{ .Content }}
+  </div>
+</article>
+{{ end }}

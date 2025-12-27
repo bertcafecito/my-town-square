@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.Language.Lang }}" dir="{{ .Language.LanguageDirection | default "ltr" }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
+  <meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+  
+  {{- if eq .Params.layout "calendar" }}
+    {{- $styles := resources.Get "css/main.css" | minify | fingerprint }}
+    <link rel="stylesheet" href="{{ $styles.RelPermalink }}" integrity="{{ $styles.Data.Integrity }}">
+  {{- else }}
+    {{- $styles := resources.Get "css/main.css" | minify | fingerprint }}
+    <link rel="stylesheet" href="{{ $styles.RelPermalink }}" integrity="{{ $styles.Data.Integrity }}">
+    <style>
+      /* Additional styles for standard pages */
+      body {
+        font-family: var(--cal-font-system);
+        background: var(--cal-bg);
+        color: var(--cal-text);
+        line-height: 1.6;
+        margin: 0;
+        padding: 0;
+      }
+      .container {
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 20px;
+      }
+      .site-header {
+        background: var(--cal-surface);
+        border-bottom: 1px solid var(--cal-border);
+        padding: 20px 0;
+        margin-bottom: 40px;
+      }
+      .site-header .container {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 0 20px;
+      }
+      .site-title {
+        font-size: 24px;
+        font-weight: 700;
+        margin: 0;
+        color: var(--cal-text);
+        text-decoration: none;
+      }
+      .site-title:hover {
+        color: var(--cal-accent);
+      }
+      .site-nav {
+        display: flex;
+        gap: 24px;
+        align-items: center;
+      }
+      .site-nav a {
+        color: var(--cal-text);
+        text-decoration: none;
+        font-weight: 500;
+        transition: color 0.2s;
+      }
+      .site-nav a:hover {
+        color: var(--cal-accent);
+      }
+      .theme-toggle-btn {
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        border: none;
+        background: var(--cal-surface-elevated);
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 18px;
+        transition: all 0.2s var(--cal-transition);
+      }
+      .theme-toggle-btn:hover {
+        background: var(--cal-border);
+        transform: scale(1.1);
+      }
+      .theme-toggle-btn .icon-dark {
+        display: none;
+      }
+      .theme-toggle-btn.dark .icon-light {
+        display: none;
+      }
+      .theme-toggle-btn.dark .icon-dark {
+        display: inline;
+      }
+      .content {
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 0 20px;
+      }
+      .page-title {
+        font-size: 36px;
+        font-weight: 700;
+        margin-bottom: 20px;
+        color: var(--cal-text);
+      }
+      .page-content {
+        font-size: 17px;
+        color: var(--cal-text);
+      }
+      .page-content h1, .page-content h2, .page-content h3 {
+        color: var(--cal-text);
+        margin-top: 32px;
+        margin-bottom: 16px;
+      }
+      .page-content h1 {
+        font-size: 32px;
+      }
+      .page-content h2 {
+        font-size: 28px;
+      }
+      .page-content h3 {
+        font-size: 24px;
+      }
+      .page-content p {
+        margin-bottom: 16px;
+      }
+      .page-content ul, .page-content ol {
+        margin-bottom: 16px;
+        padding-left: 24px;
+      }
+      .page-content li {
+        margin-bottom: 8px;
+      }
+      .page-content a {
+        color: var(--cal-accent);
+        text-decoration: none;
+      }
+      .page-content a:hover {
+        text-decoration: underline;
+      }
+      .page-content code {
+        background: var(--cal-surface);
+        padding: 2px 6px;
+        border-radius: 4px;
+        font-family: monospace;
+        font-size: 14px;
+      }
+      .page-content pre {
+        background: var(--cal-surface);
+        padding: 16px;
+        border-radius: 8px;
+        overflow-x: auto;
+        margin-bottom: 16px;
+      }
+      .page-content pre code {
+        background: none;
+        padding: 0;
+      }
+      .site-footer {
+        margin-top: 80px;
+        padding: 40px 0;
+        border-top: 1px solid var(--cal-border);
+        text-align: center;
+        color: var(--cal-text-secondary);
+        font-size: 14px;
+      }
+      @media (max-width: 768px) {
+        .site-header .container {
+          flex-direction: column;
+          gap: 16px;
+        }
+        .site-nav {
+          flex-wrap: wrap;
+          justify-content: center;
+        }
+        .page-title {
+          font-size: 28px;
+        }
+        .page-content {
+          font-size: 16px;
+        }
+      }
+    </style>
+  {{- end }}
+</head>
+<body>
+  {{- if eq .Params.layout "calendar" }}
+    {{ block "main" . }}{{ end }}
+  {{- else }}
+    {{ partial "header.html" . }}
+    <main class="container">
+      {{ block "main" . }}{{ end }}
+    </main>
+    {{ partial "footer.html" . }}
+  {{- end }}
+
+  <script>
+    // Theme management for standard pages
+    if (!'{{ eq .Params.layout "calendar" }}') {
+      const themeBtn = document.getElementById('themeToggleHeader');
+      let currentTheme = localStorage.getItem('calendar-theme') || 'auto';
+      
+      function applyTheme() {
+        const html = document.documentElement;
+        if (currentTheme === 'auto') {
+          const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+          html.setAttribute('data-theme', prefersDark ? 'dark' : 'light');
+        } else {
+          html.setAttribute('data-theme', currentTheme);
+        }
+        updateThemeButton();
+      }
+      
+      function updateThemeButton() {
+        const isDark = document.documentElement.getAttribute('data-theme') === 'dark';
+        if (themeBtn) themeBtn.classList.toggle('dark', isDark);
+      }
+      
+      function toggleTheme() {
+        const themes = ['light', 'dark', 'auto'];
+        const currentIndex = themes.indexOf(currentTheme);
+        currentTheme = themes[(currentIndex + 1) % themes.length];
+        localStorage.setItem('calendar-theme', currentTheme);
+        applyTheme();
+      }
+      
+      if (themeBtn) {
+        themeBtn.addEventListener('click', toggleTheme);
+      }
+      
+      window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', () => {
+        if (currentTheme === 'auto') applyTheme();
+      });
+      
+      applyTheme();
+    }
+  </script>
+</body>
+</html>

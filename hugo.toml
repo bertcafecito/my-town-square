@@ -1,7 +1,7 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'My Town Square - Bayonne Community Events'
-theme = 'PaperMod'
+theme = 'iphone-calendar'
 
 [params]
   description = 'Discover local events and activities happening in Bayonne, NJ'
@@ -48,4 +48,4 @@ theme = 'PaperMod'
     weight = 30
 
 [outputs]
-  home = ['HTML', 'RSS', 'JSON']
+  home = ['HTML', 'RSS']
