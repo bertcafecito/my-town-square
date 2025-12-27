@@ -1,0 +1,13 @@
+# My Town Square Scripts - Requirements
+# 
+# This file contains all Python dependencies needed for the scripts package.
+# Install with: pip install -r requirements.txt
+
+# Event Data Fetching and Processing
+python-json-logger>=4.0.0
+icalendar>=6.3.2
+requests>=2.32.5
+
+# PDF Processing
+PyPDF2>=3.0.1
+python-dateutil>=2.9.0

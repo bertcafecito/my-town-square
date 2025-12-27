@@ -1,11 +1,8 @@
-import sys
-import os
-sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..'))
-
 import logging
 import logging.config
-from my_logging.logging_config import LOGGING
+from ..my_logging.logging_config import LOGGING
 
+import os
 from datetime import datetime
 from pathlib import Path
 from icalendar import Calendar

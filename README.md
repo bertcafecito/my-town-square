@@ -34,11 +34,14 @@ cd my-town-square
 git submodule update --init --recursive
 ```
 
-3. Install Python dependencies for data scripts:
+3. Install the Python scripts package:
 ```bash
-cd scripts/calendar_data
-pip install -r requirements.txt
+cd scripts
+pip install -e .
+cd ..
 ```
+
+This installs the scripts as a proper Python package following PEP 517/518 standards.
 
 ### Running Locally
 
@@ -55,13 +58,17 @@ Event data is stored in JSON files under `data/aggregate_feed/` organized by mon
 
 ### Fetching Event Data
 
-Run the data fetching scripts:
+The `scripts/` directory contains a Python package following Python packaging standards. Install and run:
+
 ```bash
-cd scripts/calendar_data
-python fetch_data.py      # Fetch raw event data
-python aggregate_data.py  # Aggregate into monthly files
-python summarize_data.py  # Create summaries
+cd scripts
+pip install -e .              # Install package in development mode
+python -m calendar_data.fetch_data      # Fetch raw event data
+python -m calendar_data.aggregate_data  # Aggregate into monthly files
+python -m calendar_data.summarize_data  # Create summaries
 ```
+
+For detailed information about the scripts package structure and Python standards, see [`scripts/README.md`](scripts/README.md).
 
 ## 🏗️ Project Structure
 
@@ -75,15 +82,34 @@ my-town-square/
 │   ├── calendar.md
 │   └── support.md
 ├── data/                # Event data (JSON)
-│   └── aggregate_feed/
+│   ├── aggregate_feed/  # Monthly aggregated events
+│   ├── calendar_feeds/  # Source event feeds
+│   └── summarize_feed/  # Yearly summaries
 ├── layouts/             # Custom templates
 │   └── _default/
 │       └── calendar.html
-├── scripts/             # Data fetching scripts
-│   └── calendar_data/
-├── themes/              # Hugo theme (PaperMod)
+├── scripts/             # Python package for data automation
+│   ├── __init__.py      # Package initialization
+│   ├── setup.py         # Package installation config
+│   ├── requirements.txt # All dependencies
+│   ├── README.md        # Detailed scripts documentation
+│   ├── my_logging/      # Shared logging utilities
+│   ├── calendar_data/   # Event fetching and processing
+│   └── extract_pdf_dates/ # PDF date extraction
+├── themes/              # Hugo theme (iphone-calendar)
 └── hugo.toml            # Site configuration
 ```
+
+### Python Package Standards
+
+The `scripts/` directory follows Python packaging best practices:
+- **Proper package structure** with `__init__.py` files
+- **Setup.py** for package installation (PEP 517/518)
+- **Centralized dependencies** in root requirements.txt
+- **Modular design** with separate packages for different functionality
+- **Shared utilities** (`my_logging`) accessible across all modules
+
+For detailed documentation on the Python package structure and standards, see [`scripts/README.md`](scripts/README.md).
 
 ## 🎨 Customization
 
