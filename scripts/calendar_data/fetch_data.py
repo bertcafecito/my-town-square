@@ -67,6 +67,12 @@ def main():
             "url": "https://bayonnelibrary.libcal.com/ical_subscribe.php?src=p&cid=17197",
             "feed_type": "ical",
             "output_folder": "data/calendar_feeds/public_library/"
+        },
+        {
+            "name": "Board of Education",
+            "url": "https://www.bboed.org/cf_calendar/feed.cfm?type=ical&feedID=E3C0D58EC5E44405AD6A31D2556243CD",
+            "feed_type": "ical",
+            "output_folder": "data/calendar_feeds/board_of_education/"
         }
     ]
 
